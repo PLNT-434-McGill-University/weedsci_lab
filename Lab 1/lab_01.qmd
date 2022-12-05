@@ -1,0 +1,650 @@
+---
+title: "PLNT 434 <br>Lab 01"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 01"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+    title-slide-attributes: 
+      data-background-image: "images/loosestrife.png"
+      data-background-position: top
+      data-background-size: contain
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+
+
+## Ideal Characteristics of a Weed
+
+- Germination requirements fulfilled in many environments
+- Discontinuous germination and great longevity of seed
+- Rapid growth
+- Continuous seed production & ability to reproduce when young
+- Produce large number of seeds or propagules in favorable environments
+- Self compatible, or out crossing by unspecialized visitors or wind
+- Competitive with desirable plants
+- Genotypic plasticity (the basis of herbicide resistance)
+- Adapted for short and long distance dispersal
+
+
+
+## Weed Identification
+
+The first 5 labs will deal with weed identification.  After completing these labs, you should be able to:
+
+- Explain the concept of binomial nomenclature and its importance
+- Use a dichotomous key to identify weedy plants
+- Define fundamental plant morphological terminology
+- Describe characteristics of certain plant families
+- Identify approximately 50 important weed species by their common and scientific names
+
+
+## Weed Classification
+
+
+- **Botanical (taxonomic)** – based on common traits (i.e. – kingdom, division, class, order, family, genus, species)
+Originator of scientific nomenclature Carolus Linnaeus, a Swedish botanist, who lived in the 1700's.
+
+- **Life History** – life cycle, season of growth, time and method of reproduction (e.g. – summer/winter annual, biennial, perennial)
+
+- **Habitat** – where plant grows (e.g. – terrestrial, aquatic)
+
+- **Physiological** – photosynthetic pathway (C3, C4), photoperiod response of flowering (short-day, long-day, day-neutral)
+
+- **Undesirability** - difficulty of control (noxious, prohibited), poisonous characteristics
+
+- **Ecological classification** – Introduction, colonization, naturalization.
+
+- **Classification by evolutionary strategy** – stress tolerators, competitors, ruderals
+
+
+
+## Common Names
+
+
+[Advantages]{.blue}
+
+- Well understood within a small locality
+- Easy to pronounce and use by lay people without botanical training
+- Often descriptive (e.g. velvetleaf; Redroot Pigweed)
+
+
+
+## Common Names
+
+
+[Disadvantages]{.blue}
+
+- Not accepted everywhere around the world
+- May refer to more than one species
+- Johnsongrass is often used to refer to both *Sorghum halepense* and *Agropyron repens*
+"pigweed" refers to many species of both *Amaranthus* and *Chenopodium*. 
+- A single plant may have more than one common name
+- *Bromus tectorum* is often referred to as downybrome, cheat grass, junegrass, and pingrass
+- *Abutilon theophrasti* is called both velvetleaf and button weed in some US Midwest geographies
+
+
+
+## Scientific Names
+
+
+The scientific name always has two parts:  
+
+- The Genus (capitalized) 
+- The specific epithet (lower case). 
+
+## Scientific Names
+
+
+[Advantages]{.blue}
+
+- only one recognized name per species 
+- Provide a means of communication that is accepted around the world: recognized and documented worldwide 
+- Stability – they don’t change as often as common names do.
+
+
+## Scientific Names
+
+
+[Disadvantages]{.blue}
+
+- Some changes do occur as more taxonomic research is conducted.
+- Not descriptive and not widely used by lay people
+
+
+## Taxonomic Classification
+
+
+- Monocotyledon (monocots):
+  - A class of angiosperms whose seeds have a single cotyledon.
+
+- Dicotyledon (dicots): 
+  - A class of angiosperms whose seeds commonly have two cotyledons.
+  
+
+::: {.fragment .fade-in}
+[![](https://ib.bioninja.com.au/_Media/monocot-vs-dicot_med.jpeg){fig-align="center" width=1000px fig-alt="A monocot vs dicot comparison"}](https://ib.bioninja.com.au/higher-level/topic-9-plant-biology/untitled-3/monocots-versus-dicots.html)
+:::
+
+
+## 
+
+
+
+
+
+## Morphology
+
+
+[Definitions]{.blue}
+
+- **Forb**: Herbaceous plants other than grasses and grass-like plants.
+
+- **Shrub**: A low-growing woody plant, bush with one to many trunks.
+
+- **Vine**: A woody or herbaceous plant that trails on the ground or climbs over other plants or obstacles by various means.  The stem of a vine is often so weak that it can not support the plant by itself. 
+
+
+
+
+
+
+
+
+## Mallow Family (Malvaceae)
+
+
+[Characteristics]{.blue}
+
+- **Life Cycle**: Annual, Perennial
+- **Leaves**: slimy sap, alternate, usually palmately veined, simple, pubescent.
+- **Flowers**: Range from small to large, perfect, funnel shaped, 5 separate petals.
+- **Fruits**: Capsules
+- Cultivated plants of the Mallow Family: Cotton, Okra, Hollyhock (used for making Marshmallow). 
+- **Class**: dicotyledonae
+
+
+## Common Mallow {background-image="" background-position="right" background-size="contain" fig-alt=""}
+	
+Also:	Cheeseplant, Cheeseweed, Buttonweed
+
+*Malva Neglecta*  
+
+**Family**: Malvaceae
+
+
+
+## Common Mallow 
+
+[*Malva neglecta*]{.blue}
+
+A winter or summer annual or biennial, with a prostrate growth habit.  Found throughout Canada, more common in turfgrass, landscapes, and nursery crops.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Annual or biennial
+
+- **Cotyledons**: Heart shaped
+
+- **Stem**: Freely branching at the base, lying close to the soil surface, nearly erect or spreading with tips turned up (decumbent).
+
+- **Leaf**:  Alternate arrangement, on long petioles, circular to kidney-shaped, toothed and shallowly 5-9 lobed.	
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common Mallow 
+
+[*Malva neglecta*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Flowers**: Single or in clusters of 2-4 in leaf axils. Petals white or tinged with pink or purple.
+
+- **Fruit**: Flattened, round, disc-like, composed of 12-15 small hairy, 1-seeded segments, 5 to 8 mm in diameter, resembling a button in appearance	
+
+- **Identifying Characteristics:** Fruit disc-like, resembling a button. Leaves circular, toothed, and long petioled. This weed is often confused with Ground Ivy (Glechoma hederacea).  However, ground ivy leaves are opposite, and have much more prominent rounded teeth.  Ground ivy also has square stems and may emit a minty odor.
+
+:::
+
+::::
+
+
+## Velvetleaf (Buttonweed, Butterprint) {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Abutilon theophrasti*]{.blue}  
+
+**Family**: Malvaceae  
+
+
+## Velvetleaf
+
+[*Abutilon theophrasti*]{.blue}  
+
+**Family**: Malvaceae
+
+
+Found throughout the corn-belt in cultivated fields, fence rows and roadsides. In turf, probably found in roughs, and low maintenance areas.
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Origin**: India
+
+- **Life cycle**: Annual (summer)
+
+- **Cotyledons**: Orbicular (somewhat rounded)
+
+- **Stem**: Hairy
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Velvetleaf
+
+[*Abutilon theophrasti*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Leaf**: 
+  - **Complexity**:	Simple  
+  - **Arrangement**: Alternate  
+  - **Shape**: Orbicular (heart-shaped)  
+  - **Surface**:	Velvety Pubescent - Hairy (Large trichomes)	  
+  - **Margins**: Shallow, rounded teeth (Crenate) or with sharp, spreading teeth (dentate) sometimes only slightly  toothed
+
+- **Root type**: Taproot
+
+- **Flower**: Orange-yellow to yellow 
+
+:::
+
+::::
+
+
+
+## Venice Mallow {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Hibiscus trionum*]{.blue}
+
+
+“Flower of an hour”
+
+
+**Family**: Malvaceae
+
+
+
+
+
+## Venice Mallow 
+
+[*Hibiscus trionum*]{.blue}
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life Cycle**: annual (summer)
+
+- **Cotyledons**: Orbicular (somewhat rounded), can see veins easily.
+
+- **Stem**: Erect to ascending many branches, pubescent, stiff hairs
+
+- **Leaf**:
+  - **Complexity**: Simple
+  - **Arrangement**: Alternate
+  - **Shape**: Lobed (usually three)
+  - **Top Surface**: Glabrous (without hairs)
+  - **Bottom Surface**: Pubescent
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Venice Mallow 
+
+[*Hibiscus trionum*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Flower**: Pale Yellow to white with a
+	purplish or reddish- black center
+	- Flowers are open for only a few 
+hours before they are senesced.
+
+- **Root**: Fibrous roots with a shallow
+	taproot
+
+- Nonpoisonous
+
+- **Origin**: Europe 
+  - Found throughout Canada.
+
+
+
+:::
+
+::::
+
+
+## Prickly sida {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sida spinosa*]{.blue}
+
+**Also:** teaweed, Indian mallow, false mallow
+
+**Family**: Malvaceae
+
+
+
+
+## Prickly sida
+
+
+[*Sida spinosa*]{.blue}
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life Cycle**: annual (summer)
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Prickly sida
+
+[*Sida spinosa*]{.blue}
+
+
+##
+
+[**]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+:::
+
+::::
+
+
+## Morningglory Family (Convolvulaceae)
+
+
+[Characteristics]{.blue}
+
+- **Life Cycles**: Annual, Perennial
+- **Stems**: Twining, climbing, vines.
+- **Leaves**: mostly simple, alternate, pinnately lobed.
+- **Inflorescence**: auxiliary, solitary.
+- **Flowers**: Perfect, small and inconspicuous to large and showy.
+- **Class**: dicotyledonae
+
+
+
+## Ivyleaf Morningglory {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ipomoea hederacea*]{.blue}
+
+
+
+## Ivyleaf Morningglory
+
+[*Ipomoea hederacea*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Ivyleaf Morningglory
+
+[*Ipomoea hederacea*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+:::
+
+::::
+
+
+
+## Pitted morningglory {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ipomoea lacunosa*]{.blue}
+
+
+## Pitted morningglory
+
+[*Ipomoea lacunosa*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Pitted morningglory
+
+[*Ipomoea lacunosa*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+:::
+
+::::
+
+
+
+
+## Tall Morningglory {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ipomoea purpurea *]{.blue}
+
+
+Also: common morningglory
+
+
+
+## Tall Morningglory
+
+[*Ipomoea purpurea *]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life Cycle**: Annual
+
+- **Cotyledons**: butterfly-shaped lobes
+
+- **Stem**: twining, climbing, pubescent
+
+- **Leaves**: Alternate, glabrous heart-shaped with entire margins
+	  
+- **Flower**: Many colors most often; Blue, Purple, Red, White.
+	
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Tall Morningglory
+
+[*Ipomoea purpurea *]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Roots**: Fibrous roots with a shallow taproot.
+
+- **Origin**: Tropical America
+
+- **Uses**: Ornamental, several cultivars based on flower color.
+
+- May cause mild distress in swine seeds contain LSD-like substance and cause extreme illness and hallucinations.
+
+
+:::
+
+::::
+
+
