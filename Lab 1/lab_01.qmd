@@ -480,7 +480,10 @@ hours before they are senesced.
 
 ## Ivyleaf Morningglory {background-image="" background-position="right" background-size="contain" fig-alt=""}
 
-[*Ipomoea hederacea*]{.blue}
+[*Ipomoea hederacea*]{.blue}  
+
+
+**Family**: Convolvulaceae
 
 
 
@@ -492,6 +495,13 @@ hours before they are senesced.
 
 ::: {.column width="50%"}
 
+- **Life Cycle**: Annual
+
+- **Stems**: twining, climbing, Pubescent
+
+- **Cotyledons**: butterfly shaped
+
+- **Leaves**: Alternate, simple, 3 (sometimes 5) lobes, ovate, lobes distinct and pointed, pubescent
 
 
 
@@ -521,6 +531,17 @@ hours before they are senesced.
 
 ::: {.column width="50%"}
 
+- **Flower**: Large light blue, funnel 
+	   shaped
+
+- **Roots**: Fibrous with a shallow 
+            taproot
+
+- **Origin**: Native to North America
+
+- **Uses**: limited ornamental value.
+
+- Located Eastern U.S.A.
 
 :::
 
@@ -530,7 +551,12 @@ hours before they are senesced.
 
 ## Pitted morningglory {background-image="" background-position="right" background-size="contain" fig-alt=""}
 
-[*Ipomoea lacunosa*]{.blue}
+[*Ipomoea lacunosa*]{.blue}  
+
+
+**Family**: Morningglory (Convolvulaceae)
+
+
 
 
 ## Pitted morningglory
@@ -541,7 +567,13 @@ hours before they are senesced.
 
 ::: {.column width="50%"}
 
+- **Life Cycle**: Summer annual
 
+- **Stem**: Twining, climbing, Pubescent
+
+- **Cotyledons**: Deeply pitted lobes
+
+- **Leaf**: Entire, cordate
 
 
 :::
@@ -570,11 +602,20 @@ hours before they are senesced.
 
 ::: {.column width="50%"}
 
+- **Flowers**: Funnel-shaped, white in color, approximately 3/4 inches long.
+
+- **Roots**: A fibrous root system with a small taproot.
+
+- **Origin**: Native to North America
+
+- **Uses**: limited ornamental value.
+
+- Found throughout the eastern half of the United States except for the far northern states.
+
 
 :::
 
 ::::
-
 
 
 
@@ -583,7 +624,7 @@ hours before they are senesced.
 [*Ipomoea purpurea *]{.blue}
 
 
-Also: common morningglory
+**Also**: common morningglory
 
 
 
@@ -646,5 +687,80 @@ Also: common morningglory
 :::
 
 ::::
+
+
+
+
+
+## Field bindweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Convolvulus arvensis*]{.blue}
+
+**Also**: creeping Jenny, small-flower bindweed, small bindweed, European bindweed, greenvine
+
+**Family**: Morningglory (Convolvulaceae)
+
+
+
+## Field bindweed
+
+[*Convolvulus arvensis*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+	
+- **Cotyledons**: slightly butterfly shaped lobes
+
+- **Leaves**: Simple
+  - Long-petioled attachment
+  - Alternate arrangement
+  - Arrowhead shape with somewhat rounded tip
+  - Smooth surface
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Field bindweed
+
+[*Convolvulus arvensis*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: twining, without hair to pubescent
+- **Roots**: Extensive roots (up to 10m), rhizomes
+- **Found**: small grain fields, gardens, roadsides
+
+- May cause mild distress in swine
+
+- One of the most serious weeds in Nebraska
+
+- Thought to have been introduced through wheat seed from Turkey in 1870
+
+:::
+
+::::
+
+
 
 

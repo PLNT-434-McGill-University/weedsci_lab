@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="lab_01_files/libs/clipboard/clipboard.min.js"></script>
-<script src="lab_01_files/libs/quarto-html/tabby.min.js"></script>
-<script src="lab_01_files/libs/quarto-html/popper.min.js"></script>
-<script src="lab_01_files/libs/quarto-html/tippy.umd.min.js"></script>
-<link href="lab_01_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="lab_01_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="lab_01_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="lab_02_files/libs/clipboard/clipboard.min.js"></script>
+<script src="lab_02_files/libs/quarto-html/tabby.min.js"></script>
+<script src="lab_02_files/libs/quarto-html/popper.min.js"></script>
+<script src="lab_02_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="lab_02_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="lab_02_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="lab_02_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.1.189">
 
   <meta name="author" content="Maxwel C Oliveira, PhD">
-  <title>PLNT 434  Lab 01</title>
+  <title>PLNT 434  Lab 02 - Weed ID</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="lab_01_files/libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="lab_01_files/libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="lab_02_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="lab_02_files/libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -29,14 +29,14 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="lab_01_files/libs/revealjs/dist/theme/quarto.css" id="theme">
+  <link rel="stylesheet" href="lab_02_files/libs/revealjs/dist/theme/quarto.css" id="theme">
   <link rel="stylesheet" href="../theme/logo.css">
-  <link href="lab_01_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="lab_01_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="lab_01_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="lab_01_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="lab_01_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
-  <link href="lab_01_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="lab_02_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -327,456 +327,45 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="images/loosestrife.png" data-background-position="top" data-background-size="contain" class="center">
-  <h1 class="title">PLNT 434 <br>Lab 01</h1>
+  <h1 class="title">PLNT 434 <br>Lab 02 - Weed ID</h1>
   <p class="author">Maxwel C Oliveira, PhD</p>
   <p class="institute">Department of Plant Science <br>McGill University</p>
 </section>
 
-<section id="ideal-characteristics-of-a-weed" class="slide level2">
-<h2>Ideal Characteristics of a Weed</h2>
-<ul>
-<li class="fragment">Germination requirements fulfilled in many environments</li>
-<li class="fragment">Discontinuous germination and great longevity of seed</li>
-<li class="fragment">Rapid growth</li>
-<li class="fragment">Continuous seed production &amp; ability to reproduce when young</li>
-<li class="fragment">Produce large number of seeds or propagules in favorable environments</li>
-<li class="fragment">Self compatible, or out crossing by unspecialized visitors or wind</li>
-<li class="fragment">Competitive with desirable plants</li>
-<li class="fragment">Genotypic plasticity (the basis of herbicide resistance)</li>
-<li class="fragment">Adapted for short and long distance dispersal</li>
-</ul>
-</section>
-<section id="weed-identification" class="slide level2">
-<h2>Weed Identification</h2>
-<p>The first 5 labs will deal with weed identification. After completing these labs, you should be able to:</p>
-<ul>
-<li class="fragment">Explain the concept of binomial nomenclature and its importance</li>
-<li class="fragment">Use a dichotomous key to identify weedy plants</li>
-<li class="fragment">Define fundamental plant morphological terminology</li>
-<li class="fragment">Describe characteristics of certain plant families</li>
-<li class="fragment">Identify approximately 50 important weed species by their common and scientific names</li>
-</ul>
-</section>
-<section id="weed-classification" class="slide level2">
-<h2>Weed Classification</h2>
-<ul>
-<li class="fragment"><p><strong>Botanical (taxonomic)</strong> – based on common traits (i.e.&nbsp;– kingdom, division, class, order, family, genus, species) Originator of scientific nomenclature Carolus Linnaeus, a Swedish botanist, who lived in the 1700’s.</p></li>
-<li class="fragment"><p><strong>Life History</strong> – life cycle, season of growth, time and method of reproduction (e.g.&nbsp;– summer/winter annual, biennial, perennial)</p></li>
-<li class="fragment"><p><strong>Habitat</strong> – where plant grows (e.g.&nbsp;– terrestrial, aquatic)</p></li>
-<li class="fragment"><p><strong>Physiological</strong> – photosynthetic pathway (C3, C4), photoperiod response of flowering (short-day, long-day, day-neutral)</p></li>
-<li class="fragment"><p><strong>Undesirability</strong> - difficulty of control (noxious, prohibited), poisonous characteristics</p></li>
-<li class="fragment"><p><strong>Ecological classification</strong> – Introduction, colonization, naturalization.</p></li>
-<li class="fragment"><p><strong>Classification by evolutionary strategy</strong> – stress tolerators, competitors, ruderals</p></li>
-</ul>
-</section>
-<section id="common-names" class="slide level2">
-<h2>Common Names</h2>
-<p><span class="blue">Advantages</span></p>
-<ul>
-<li class="fragment">Well understood within a small locality</li>
-<li class="fragment">Easy to pronounce and use by lay people without botanical training</li>
-<li class="fragment">Often descriptive (e.g.&nbsp;velvetleaf; Redroot Pigweed)</li>
-</ul>
-</section>
-<section id="common-names-1" class="slide level2">
-<h2>Common Names</h2>
-<p><span class="blue">Disadvantages</span></p>
-<ul>
-<li class="fragment">Not accepted everywhere around the world</li>
-<li class="fragment">May refer to more than one species</li>
-<li class="fragment">Johnsongrass is often used to refer to both <em>Sorghum halepense</em> and <em>Agropyron repens</em> “pigweed” refers to many species of both <em>Amaranthus</em> and <em>Chenopodium</em>.</li>
-<li class="fragment">A single plant may have more than one common name</li>
-<li class="fragment"><em>Bromus tectorum</em> is often referred to as downybrome, cheat grass, junegrass, and pingrass</li>
-<li class="fragment"><em>Abutilon theophrasti</em> is called both velvetleaf and button weed in some US Midwest geographies</li>
-</ul>
-</section>
-<section id="scientific-names" class="slide level2">
-<h2>Scientific Names</h2>
-<p>The scientific name always has two parts:</p>
-<ul>
-<li class="fragment">The Genus (capitalized)</li>
-<li class="fragment">The specific epithet (lower case).</li>
-</ul>
-</section>
-<section id="scientific-names-1" class="slide level2">
-<h2>Scientific Names</h2>
-<p><span class="blue">Advantages</span></p>
-<ul>
-<li class="fragment">only one recognized name per species</li>
-<li class="fragment">Provide a means of communication that is accepted around the world: recognized and documented worldwide</li>
-<li class="fragment">Stability – they don’t change as often as common names do.</li>
-</ul>
-</section>
-<section id="scientific-names-2" class="slide level2">
-<h2>Scientific Names</h2>
-<p><span class="blue">Disadvantages</span></p>
-<ul>
-<li class="fragment">Some changes do occur as more taxonomic research is conducted.</li>
-<li class="fragment">Not descriptive and not widely used by lay people</li>
-</ul>
-</section>
-<section id="taxonomic-classification" class="slide level2">
-<h2>Taxonomic Classification</h2>
-<ul>
-<li class="fragment">Monocotyledon (monocots):
-<ul>
-<li class="fragment">A class of angiosperms whose seeds have a single cotyledon.</li>
-</ul></li>
-<li class="fragment">Dicotyledon (dicots):
-<ul>
-<li class="fragment">A class of angiosperms whose seeds commonly have two cotyledons.</li>
-</ul></li>
-</ul>
-<div class="fragment fade-in">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><a href="https://ib.bioninja.com.au/higher-level/topic-9-plant-biology/untitled-3/monocots-versus-dicots.html"><img data-src="https://ib.bioninja.com.au/_Media/monocot-vs-dicot_med.jpeg" alt="A monocot vs dicot comparison" width="1000"></a></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="section" class="slide level2">
-<h2></h2>
-</section>
-<section id="morphology" class="slide level2">
-<h2>Morphology</h2>
-<p><span class="blue">Definitions</span></p>
-<ul>
-<li class="fragment"><p><strong>Forb</strong>: Herbaceous plants other than grasses and grass-like plants.</p></li>
-<li class="fragment"><p><strong>Shrub</strong>: A low-growing woody plant, bush with one to many trunks.</p></li>
-<li class="fragment"><p><strong>Vine</strong>: A woody or herbaceous plant that trails on the ground or climbs over other plants or obstacles by various means. The stem of a vine is often so weak that it can not support the plant by itself.</p></li>
-</ul>
-</section>
-<section id="mallow-family-malvaceae" class="slide level2">
-<h2>Mallow Family (Malvaceae)</h2>
+<section id="nightshade-solanaceae" class="slide level2">
+<h2>Nightshade (Solanaceae)</h2>
 <p><span class="blue">Characteristics</span></p>
 <ul>
-<li class="fragment"><strong>Life Cycle</strong>: Annual, Perennial</li>
-<li class="fragment"><strong>Leaves</strong>: slimy sap, alternate, usually palmately veined, simple, pubescent.</li>
-<li class="fragment"><strong>Flowers</strong>: Range from small to large, perfect, funnel shaped, 5 separate petals.</li>
-<li class="fragment"><strong>Fruits</strong>: Capsules</li>
-<li class="fragment">Cultivated plants of the Mallow Family: Cotton, Okra, Hollyhock (used for making Marshmallow).</li>
-<li class="fragment"><strong>Class</strong>: dicotyledonae</li>
+<li class="fragment"><p>No single characteristic common only to this family</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: generally alternate, simple, hairy, have a characteristic odor, petioled, egg or triangular shaped</p></li>
+<li class="fragment"><p><strong>Inflorescence</strong>: racemes or umbels</p></li>
+<li class="fragment"><p><strong>Flowers</strong>: perfect, in small clusters, typically white or pink</p></li>
+<li class="fragment"><p><strong>Fruits</strong>: berry or capsule</p></li>
+<li class="fragment"><p><strong>Cultivated</strong>: tomato, potato, peppers, eggplant, tobacco, paprika, petunias</p></li>
 </ul>
 </section>
-<section id="common-mallow" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Common Mallow</h2>
-<p>Also: Cheeseplant, Cheeseweed, Buttonweed</p>
-<p><em>Malva Neglecta</em></p>
-<p><strong>Family</strong>: Malvaceae</p>
+<section id="eastern-black-nightshade" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
+<h2>Eastern black nightshade</h2>
+<p><span class="blue"><em>Solanum ptycanthum</em></span></p>
+<p><strong>Also</strong>: black nightshade</p>
+<ul>
+<li class="fragment"><strong>Family</strong>: Nightshade (Solanaceae)</li>
+</ul>
 </section>
-<section id="common-mallow-1" class="slide level2">
-<h2>Common Mallow</h2>
-<p><span class="blue"><em>Malva neglecta</em></span></p>
-<p>A winter or summer annual or biennial, with a prostrate growth habit.&nbsp; Found throughout Canada, more common in turfgrass, landscapes, and nursery crops.</p>
+<section id="eastern-black-nightshade-1" class="slide level2">
+<h2>Eastern black nightshade</h2>
+<p><span class="blue"><em>Solanum ptycanthum</em></span></p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li class="fragment"><p><strong>Life cycle</strong>: Annual or biennial</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: Heart shaped</p></li>
-<li class="fragment"><p><strong>Stem</strong>: Freely branching at the base, lying close to the soil surface, nearly erect or spreading with tips turned up (decumbent).</p></li>
-<li class="fragment"><p><strong>Leaf</strong>: Alternate arrangement, on long petioles, circular to kidney-shaped, toothed and shallowly 5-9 lobed.</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="common-mallow-2" class="slide level2">
-<h2>Common Mallow</h2>
-<p><span class="blue"><em>Malva neglecta</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
+<li class="fragment"><p><strong>Family</strong>: Summer annual</p></li>
+<li class="fragment"><p><strong>Cotyledons</strong>: small, ovate, maroon colored on lower surfaces</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple</p>
 <ul>
-<li class="fragment"><p><strong>Flowers</strong>:&nbsp;Single or in clusters of 2-4 in leaf axils. Petals white or tinged with pink or purple.</p></li>
-<li class="fragment"><p><strong>Fruit</strong>: Flattened, round, disc-like, composed of 12-15 small hairy, 1-seeded segments, 5 to 8 mm in diameter, resembling a button in appearance</p></li>
-<li class="fragment"><p><strong>Identifying Characteristics:</strong> Fruit disc-like, resembling a button. Leaves circular, toothed, and long petioled. This weed is often confused with&nbsp;Ground Ivy&nbsp;(Glechoma hederacea).&nbsp; However, ground ivy leaves are opposite, and have much more prominent rounded teeth.&nbsp; Ground ivy also has square stems and may emit a minty odor.</p></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="velvetleaf-buttonweed-butterprint" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Velvetleaf (Buttonweed, Butterprint)</h2>
-<p><span class="blue"><em>Abutilon theophrasti</em></span></p>
-<p><strong>Family</strong>: Malvaceae</p>
-</section>
-<section id="velvetleaf" class="slide level2">
-<h2>Velvetleaf</h2>
-<p><span class="blue"><em>Abutilon theophrasti</em></span></p>
-<p><strong>Family</strong>: Malvaceae</p>
-<p>Found throughout the corn-belt in cultivated fields, fence rows and roadsides. In turf, probably found in roughs, and low maintenance areas.</p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Origin</strong>: India</p></li>
-<li class="fragment"><p><strong>Life cycle</strong>: Annual (summer)</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: Orbicular (somewhat rounded)</p></li>
-<li class="fragment"><p><strong>Stem</strong>: Hairy</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="velvetleaf-1" class="slide level2">
-<h2>Velvetleaf</h2>
-<p><span class="blue"><em>Abutilon theophrasti</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Leaf</strong>:</p>
-<ul>
-<li class="fragment"><strong>Complexity</strong>: Simple<br>
-</li>
-<li class="fragment"><strong>Arrangement</strong>: Alternate<br>
-</li>
-<li class="fragment"><strong>Shape</strong>: Orbicular (heart-shaped)<br>
-</li>
-<li class="fragment"><strong>Surface</strong>: Velvety Pubescent - Hairy (Large trichomes)<br>
-</li>
-<li class="fragment"><strong>Margins</strong>: Shallow, rounded teeth (Crenate) or with sharp, spreading teeth (dentate) sometimes only slightly toothed</li>
-</ul></li>
-<li class="fragment"><p><strong>Root type</strong>: Taproot</p></li>
-<li class="fragment"><p><strong>Flower</strong>: Orange-yellow to yellow</p></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="venice-mallow" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Venice Mallow</h2>
-<p><span class="blue"><em>Hibiscus trionum</em></span></p>
-<p>“Flower of an hour”</p>
-<p><strong>Family</strong>: Malvaceae</p>
-</section>
-<section id="venice-mallow-1" class="slide level2">
-<h2>Venice Mallow</h2>
-<p><span class="blue"><em>Hibiscus trionum</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Life Cycle</strong>: annual (summer)</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: Orbicular (somewhat rounded), can see veins easily.</p></li>
-<li class="fragment"><p><strong>Stem</strong>: Erect to ascending many branches, pubescent, stiff hairs</p></li>
-<li class="fragment"><p><strong>Leaf</strong>:</p>
-<ul>
-<li class="fragment"><strong>Complexity</strong>: Simple</li>
-<li class="fragment"><strong>Arrangement</strong>: Alternate</li>
-<li class="fragment"><strong>Shape</strong>: Lobed (usually three)</li>
-<li class="fragment"><strong>Top Surface</strong>: Glabrous (without hairs)</li>
-<li class="fragment"><strong>Bottom Surface</strong>: Pubescent</li>
-</ul></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="venice-mallow-2" class="slide level2">
-<h2>Venice Mallow</h2>
-<p><span class="blue"><em>Hibiscus trionum</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Flower</strong>: Pale Yellow to white with a purplish or reddish- black center</p>
-<ul>
-<li class="fragment">Flowers are open for only a few hours before they are senesced.</li>
-</ul></li>
-<li class="fragment"><p><strong>Root</strong>: Fibrous roots with a shallow taproot</p></li>
-<li class="fragment"><p>Nonpoisonous</p></li>
-<li class="fragment"><p><strong>Origin</strong>: Europe</p>
-<ul>
-<li class="fragment">Found throughout Canada.</li>
-</ul></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="prickly-sida" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Prickly sida</h2>
-<p><span class="blue"><em>Sida spinosa</em></span></p>
-<p><strong>Also:</strong> teaweed, Indian mallow, false mallow</p>
-<p><strong>Family</strong>: Malvaceae</p>
-</section>
-<section id="prickly-sida-1" class="slide level2">
-<h2>Prickly sida</h2>
-<p><span class="blue"><em>Sida spinosa</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><strong>Life Cycle</strong>: annual (summer)</li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="prickly-sida-2" class="slide level2">
-<h2>Prickly sida</h2>
-<p><span class="blue"><em>Sida spinosa</em></span></p>
-</section>
-<section id="section-1" class="slide level2">
-<h2></h2>
-<p><span class="blue">**</span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="morningglory-family-convolvulaceae" class="slide level2">
-<h2>Morningglory Family (Convolvulaceae)</h2>
-<p><span class="blue">Characteristics</span></p>
-<ul>
-<li class="fragment"><strong>Life Cycles</strong>: Annual, Perennial</li>
-<li class="fragment"><strong>Stems</strong>: Twining, climbing, vines.</li>
-<li class="fragment"><strong>Leaves</strong>: mostly simple, alternate, pinnately lobed.</li>
-<li class="fragment"><strong>Inflorescence</strong>: auxiliary, solitary.</li>
-<li class="fragment"><strong>Flowers</strong>: Perfect, small and inconspicuous to large and showy.</li>
-<li class="fragment"><strong>Class</strong>: dicotyledonae</li>
-</ul>
-</section>
-<section id="ivyleaf-morningglory" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Ivyleaf Morningglory</h2>
-<p><span class="blue"><em>Ipomoea hederacea</em></span></p>
-<p><strong>Family</strong>: Convolvulaceae</p>
-</section>
-<section id="ivyleaf-morningglory-1" class="slide level2">
-<h2>Ivyleaf Morningglory</h2>
-<p><span class="blue"><em>Ipomoea hederacea</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Life Cycle</strong>: Annual</p></li>
-<li class="fragment"><p><strong>Stems</strong>: twining, climbing, Pubescent</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: butterfly shaped</p></li>
-<li class="fragment"><p><strong>Leaves</strong>: Alternate, simple, 3 (sometimes 5) lobes, ovate, lobes distinct and pointed, pubescent</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="ivyleaf-morningglory-2" class="slide level2">
-<h2>Ivyleaf Morningglory</h2>
-<p><span class="blue"><em>Ipomoea hederacea</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Flower</strong>: Large light blue, funnel shaped</p></li>
-<li class="fragment"><p><strong>Roots</strong>: Fibrous with a shallow taproot</p></li>
-<li class="fragment"><p><strong>Origin</strong>: Native to North America</p></li>
-<li class="fragment"><p><strong>Uses</strong>: limited ornamental value.</p></li>
-<li class="fragment"><p>Located Eastern U.S.A.</p></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="pitted-morningglory" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Pitted morningglory</h2>
-<p><span class="blue"><em>Ipomoea lacunosa</em></span></p>
-<p><strong>Family</strong>: Morningglory (Convolvulaceae)</p>
-</section>
-<section id="pitted-morningglory-1" class="slide level2">
-<h2>Pitted morningglory</h2>
-<p><span class="blue"><em>Ipomoea lacunosa</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Life Cycle</strong>: Summer annual</p></li>
-<li class="fragment"><p><strong>Stem</strong>: Twining, climbing, Pubescent</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: Deeply pitted lobes</p></li>
-<li class="fragment"><p><strong>Leaf</strong>: Entire, cordate</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="pitted-morningglory-2" class="slide level2">
-<h2>Pitted morningglory</h2>
-<p><span class="blue"><em>Ipomoea lacunosa</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Flowers</strong>: Funnel-shaped, white in color, approximately 3/4 inches long.</p></li>
-<li class="fragment"><p><strong>Roots</strong>: A fibrous root system with a small taproot.</p></li>
-<li class="fragment"><p><strong>Origin</strong>: Native to North America</p></li>
-<li class="fragment"><p><strong>Uses</strong>: limited ornamental value.</p></li>
-<li class="fragment"><p>Found throughout the eastern half of the United States except for the far northern states.</p></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="tall-morningglory" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Tall Morningglory</h2>
-<p><span class="blue"><em>Ipomoea purpurea </em></span></p>
-<p>Also: common morningglory</p>
-</section>
-<section id="tall-morningglory-1" class="slide level2">
-<h2>Tall Morningglory</h2>
-<p><span class="blue"><em>Ipomoea purpurea </em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Life Cycle</strong>: Annual</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: butterfly-shaped lobes</p></li>
-<li class="fragment"><p><strong>Stem</strong>: twining, climbing, pubescent</p></li>
-<li class="fragment"><p><strong>Leaves</strong>: Alternate, glabrous heart-shaped with entire margins</p></li>
-<li class="fragment"><p><strong>Flower</strong>: Many colors most often; Blue, Purple, Red, White.</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="tall-morningglory-2" class="slide level2">
-<h2>Tall Morningglory</h2>
-<p><span class="blue"><em>Ipomoea purpurea </em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-
-</div><div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Roots</strong>: Fibrous roots with a shallow taproot.</p></li>
-<li class="fragment"><p><strong>Origin</strong>: Tropical America</p></li>
-<li class="fragment"><p><strong>Uses</strong>: Ornamental, several cultivars based on flower color.</p></li>
-<li class="fragment"><p>May cause mild distress in swine seeds contain LSD-like substance and cause extreme illness and hallucinations.</p></li>
-</ul>
-</div>
-</div>
-</section>
-<section id="field-bindweed" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
-<h2>Field bindweed</h2>
-<p><span class="blue"><em>Convolvulus arvensis</em></span></p>
-<p><strong>Also</strong>: creeping Jenny, small-flower bindweed, small bindweed, European bindweed, greenvine</p>
-<p><strong>Family</strong>: Morningglory (Convolvulaceae)</p>
-</section>
-<section id="field-bindweed-1" class="slide level2">
-<h2>Field bindweed</h2>
-<p><span class="blue"><em>Convolvulus arvensis</em></span></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li class="fragment"><p><strong>Life cycle</strong>: Perennial</p></li>
-<li class="fragment"><p><strong>Cotyledons</strong>: slightly butterfly shaped lobes</p></li>
-<li class="fragment"><p><strong>Leaves</strong>: Simple</p>
-<ul>
-<li class="fragment">Long-petioled attachment</li>
 <li class="fragment">Alternate arrangement</li>
-<li class="fragment">Arrowhead shape with somewhat rounded tip</li>
-<li class="fragment">Smooth surface</li>
+<li class="fragment">Ovate to triangular or lanceolate shape, tip pointed to rounded or blunt</li>
+<li class="fragment">Entire to sinuate-dentate margins</li>
+<li class="fragment">Hairless to sparsely pubescent surface</li>
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
@@ -784,23 +373,241 @@
 </div>
 </div>
 </section>
-<section id="field-bindweed-2" class="slide level2">
-<h2>Field bindweed</h2>
-<p><span class="blue"><em>Convolvulus arvensis</em></span></p>
+<section id="eastern-black-nightshade-2" class="slide level2">
+<h2>Eastern black nightshade</h2>
+<p><span class="blue"><em>Solanum ptycanthum</em></span></p>
 <div class="columns">
 <div class="column" style="width:50%;">
 
 </div><div class="column" style="width:50%;">
 <ul>
-<li class="fragment"><p><strong>Stem</strong>: twining, without hair to pubescent</p></li>
-<li class="fragment"><p><strong>Roots</strong>: Extensive roots (up to 10m), rhizomes</p></li>
-<li class="fragment"><p><strong>Found</strong>: small grain fields, gardens, roadsides</p></li>
-<li class="fragment"><p>May cause mild distress in swine</p></li>
-<li class="fragment"><p>One of the most serious weeds in Nebraska</p></li>
-<li class="fragment"><p>Thought to have been introduced through wheat seed from Turkey in 1870</p></li>
+<li class="fragment"><p><strong>Stem</strong>: erect, divergently branching, without hair to sparsely hairy</p></li>
+<li class="fragment"><p><strong>Found</strong>: roadsides, gardens, row crops, stream banks</p></li>
+<li class="fragment"><p>Berries and other plant parts contain the alkaloid solanidine. Causes gastrointestinal irritation and sometimes death.</p></li>
+<li class="fragment"><p>Berries mixed with harvested crop can greatly reduce the crop value</p></li>
 </ul>
 </div>
 </div>
+</section>
+<section id="jimsonweed" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
+<h2>Jimsonweed</h2>
+<p><span class="blue"><em>Datura stramonium</em></span></p>
+<p><strong>Also</strong>: thornapple, moonflower</p>
+<p><strong>Family</strong>: Nightshade (Solanaceae)</p>
+</section>
+<section id="jimsonweed-1" class="slide level2">
+<h2>Jimsonweed</h2>
+<p><span class="blue"><em>Datura stramonium</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Life cycle</strong>: Summer annual</p></li>
+<li class="fragment"><p><strong>Cotyledons</strong>: thick, without hairs, long and linear in outline</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple</p>
+<ul>
+<li class="fragment">Petiolate attachment</li>
+<li class="fragment">Alternate arrangement</li>
+<li class="fragment">Ovate shape, gradually pointed tips</li>
+<li class="fragment">Margins toothed, unevenly sinuate-dentate</li>
+<li class="fragment">Smooth, hairless surface</li>
+</ul></li>
+<li class="fragment"><p><strong>Stem</strong>: Erect, branching above, smooth, green to purple in color</p></li>
+</ul>
+</div><div class="column" style="width:50%;">
+
+</div>
+</div>
+</section>
+<section id="jimsonweed-2" class="slide level2">
+<h2>Jimsonweed</h2>
+<p><span class="blue"><em>Datura stramonium</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+
+</div><div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Found</strong>: Barn lots, cultivated fields, gardens, pastures, flood plains</p></li>
+<li class="fragment"><p>Leaves have strong scent when crushed</p></li>
+<li class="fragment"><p>Planted as an ornamental under the common name of moonflower</p></li>
+<li class="fragment"><p>Reported to be able to extract heavy metals and radioactive materials from contaminated soil</p></li>
+<li class="fragment"><p>Contains high levels of solonaceous alkaloids, and is highly poisonous. Has caused death in all types of livestock</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="mustard-family-brassicaceae" class="slide level2">
+<h2>Mustard family (Brassicaceae)</h2>
+<ul>
+<li class="fragment"><p>Herbs</p></li>
+<li class="fragment"><p>Annuals (many winter), biennials, and perennials</p></li>
+<li class="fragment"><p><strong>Stem</strong>: initially compact for many species, with leaves arranged in a basal rosette</p>
+<ul>
+<li class="fragment">Often elongates as plants mature and flower</li>
+</ul></li>
+<li class="fragment"><p><strong>Leaf arrangement</strong>: alternate</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple or divided</p>
+<ul>
+<li class="fragment">Rosette leaves may differ from upper leaves</li>
+</ul></li>
+<li class="fragment"><p><strong>Roots</strong>: taproot</p></li>
+<li class="fragment"><p><strong>Inflorescence</strong>: indeterminate racemes bearing many flowers</p></li>
+<li class="fragment"><p><strong>Flowers</strong>: blue, red, white, or yellow. Small with 4 petals and 4 sepals arranged like a cross.</p></li>
+<li class="fragment"><p><strong>Fruits</strong>: silique or silicle</p></li>
+<li class="fragment"><p><strong>Reproduction</strong>: seed, root stock</p></li>
+<li class="fragment"><p><strong>Cultivated varieties</strong>: cabbage, turnip, radish, crambe, canola</p></li>
+</ul>
+</section>
+<section id="field-pennycress" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
+<h2>Field pennycress</h2>
+<p><span class="blue"><em>Thlaspi arvense</em></span></p>
+<p><strong>Family</strong>: Mustard (Brassicaceae)</p>
+</section>
+<section id="field-pennycress-1" class="slide level2">
+<h2>Field pennycress</h2>
+<p><span class="blue"><em>Thlaspi arvense</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Life cycle</strong>: Annual (summer or winter)</p></li>
+<li class="fragment"><p><strong>Cotyledons</strong>: oblong, petiolate</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple</p>
+<ul>
+<li class="fragment">Petiolate attachment below, sessile and clasping attachment above</li>
+<li class="fragment">Alternate arrangement, lower blades in rosette</li>
+<li class="fragment">Lower blades spatulate with rounded tip, upper blades oblong-elliptic with pointed tip</li>
+<li class="fragment">Lower blades entire to coarsely toothed margins, upper blades coarsely toothed</li>
+<li class="fragment">Glabrous surface</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+
+</div>
+</div>
+</section>
+<section id="field-pennycress-2" class="slide level2">
+<h2>Field pennycress</h2>
+<p><span class="blue"><em>Thlaspi arvense</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+
+</div><div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Stem</strong>: erect, branched or simple, smooth</p></li>
+<li class="fragment"><p><strong>Found</strong>: small grain and alfalfa fields, hayland, pastures, gardens, roadsides</p></li>
+<li class="fragment"><p>May cause gastric distress to cattle if feed is contaminated with seed</p></li>
+<li class="fragment"><p>May give garlic-like flavor/odor to milk if cattle consume the plant</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="wild-mustard-charlock" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
+<h2>Wild mustard (charlock)</h2>
+<p><span class="blue"><em>Sinapis arvensis</em></span></p>
+<p><strong>Family</strong>: Mustard (Brassicaceae)</p>
+</section>
+<section id="wild-mustard" class="slide level2">
+<h2>Wild mustard</h2>
+<p><span class="blue"><em>Sinapis arvensis</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Life cycle</strong>: Annual (winter or summer)</p></li>
+<li class="fragment"><p><strong>Cotyledons</strong>: small, butterfly shaped</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple</p>
+<ul>
+<li class="fragment">Alternate arrangement</li>
+<li class="fragment">Ovate to lanceolate shape, upper leaves become smaller</li>
+<li class="fragment">Irregularly lobed, some dentate margins</li>
+<li class="fragment">Hairy surface</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+
+</div>
+</div>
+</section>
+<section id="wild-mustard-1" class="slide level2">
+<h2>Wild mustard</h2>
+<p><span class="blue"><em>Sinapis arvensis</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+
+</div><div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Stem</strong>: erect, hairy, branching above</p></li>
+<li class="fragment"><p><strong>Found</strong>: gardens, roadsides, hayland, pastures, small grain fields</p></li>
+<li class="fragment"><p>Has caused gastroentitis in sheep and swine from ingestion of seeds</p></li>
+<li class="fragment"><p>Closely related to canola</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="cucumber-family-cucurbitaceae" class="slide level2">
+<h2>Cucumber Family (Cucurbitaceae)</h2>
+<ul>
+<li class="fragment"><p>750-1000 species worldwide</p></li>
+<li class="fragment"><p>Mainly tropical regions</p></li>
+<li class="fragment"><p>Mostly vines</p></li>
+<li class="fragment"><p><strong>Cultivated crops</strong>: cucumbers, squash, melons, pumpkins, gourds</p></li>
+</ul>
+</section>
+<section id="burcucumber" class="slide level2" data-background-image="" data-background-position="right" data-background-size="contain" data-fig-alt="">
+<h2>Burcucumber</h2>
+<p><span class="blue"><em>Sicyos angulatus</em></span></p>
+<p><strong>Family</strong>: Cucumber (Cucurbitaceae)</p>
+</section>
+<section id="burcucumber-1" class="slide level2">
+<h2>Burcucumber</h2>
+<p><span class="blue"><em>Sicyos angulatus</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Life cycle</strong>: Summer annual</p></li>
+<li class="fragment"><p><strong>Cotyledons</strong>: oblong, thick, green, slightly roughened</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: simple</p>
+<ul>
+<li class="fragment">Palmate</li>
+<li class="fragment">Alternate arrangement</li>
+<li class="fragment">Pubescent</li>
+<li class="fragment">2-5 cm petiole; also pubescent</li>
+<li class="fragment">5 pointed lobes</li>
+</ul></li>
+<li class="fragment"><p><strong>Stem</strong>: climbing vine, branched, pubescent at leaf nodes</p></li>
+</ul>
+</div><div class="column" style="width:50%;">
+
+</div>
+</div>
+</section>
+<section id="burcucumber-2" class="slide level2">
+<h2>Burcucumber</h2>
+<p><span class="blue"><em>Sicyos angulatus</em></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+
+</div><div class="column" style="width:50%;">
+<ul>
+<li class="fragment"><p><strong>Found</strong>: fencerows, floodplains, moist sites, cultivated fields (though uncommon), lowlands, climbing around surrounding vegetation</p></li>
+<li class="fragment"><p>Often problematic for ornamental trees and shrubs</p></li>
+<li class="fragment"><p>Native of North American</p></li>
+<li class="fragment"><p>Similar to cucumber found in your garden</p></li>
+<li class="fragment"><p>Valuable to upland game and song birds for providing canopy cover</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="sunflower-family-asteraceae" class="slide level2">
+<h2>Sunflower family (Asteraceae)</h2>
+<ul>
+<li class="fragment"><p>Mostly herbs, but also shrubs</p></li>
+<li class="fragment"><p>Annuals, perennials</p></li>
+<li class="fragment"><p>Around 20,000 species</p></li>
+<li class="fragment"><p><strong>Stems</strong>: usually hairy and rough</p></li>
+<li class="fragment"><p><strong>Leaves</strong>: mostly alternate, occasionally opposite, rough, hairy, sometimes spiny, usually simple, entire or lobed, without stipules</p></li>
+<li class="fragment"><p><strong>Flowers</strong>: generally clustered into heads</p></li>
+<li class="fragment"><p><strong>Fruits</strong>: achenes</p></li>
+<li class="fragment"><p>Cultivated varieties: sunflower, lettuce, globe artichoke, chicory, safflower, chrysanthemums, asters</p></li>
+</ul>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>Lab 01</p>
@@ -810,22 +617,22 @@
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="lab_01_files/libs/revealjs/dist/reveal.js"></script>
+  <script src="lab_02_files/libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="lab_01_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/multiplex/multiplex.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/multiplex/socket.io.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/multiplex/multiplex.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="lab_01_files/libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/search/search.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="lab_01_files/libs/revealjs/plugin/math/math.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="lab_02_files/libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>
@@ -842,7 +649,7 @@
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'multiplex': {"secret":null,"id":"1ee0604e06693623","url":"https://reveal-multiplex.glitch.me/"},
+'multiplex': {"secret":"16703503282225232349","id":"ca5f1984dae17b44","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -1016,7 +823,7 @@
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]
