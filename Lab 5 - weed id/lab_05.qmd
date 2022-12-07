@@ -1,0 +1,631 @@
+---
+title: "PLNT 434 <br>Lab 05 - Weed ID"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 05"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+
+
+
+## Sedge Family (Cyperaceae)
+
+- Non-grass monocot.
+
+- **Fruit**: small, 1-seeded nut Flowers: small, unisexual, sepals and petals often absent
+
+- **Inflorescences**: often divided into male and female parts
+
+- **Leaves**: linear, grass-like with parallel veins
+
+- **Stems**: 3-sided, no nodes, solid (not hollow)
+
+
+
+## yellow nutsedge {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Cyperus esculentus*]{.blue}  
+
+
+**Also**: Yellow nutgrass  
+
+
+**Family**: Sedge (Cyperaceae)  
+
+
+kypeiros (Gr.) sedge  
+esculent (L.) edible  
+
+
+
+## yellow nutsedge 
+
+[*Cyperus esculentus*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Stem**: Triangle shape solid and nodeless and appear waxy.
+
+- **Leaves**: Most basal, 3-ranked, crowded, pale green without hair.
+
+- **Flower**: Spikelets, slender, florets highly reduced, rachilla winged.
+
+- **Roots**: Fibrous roots and scaly rhizomes, some rhizomes terminating in hard tubers or nutlets.
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## yellow nutsedge 
+
+[*Cyperus esculentus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Origin**: Eurasia
+
+- **Habitat**: Usually near poorly drain areas. Problems in lawns and gardens. 
+
+
+:::
+
+::::
+
+
+
+## Pigweed Family (Amaranthaceae)
+
+
+- Primarily herbs and shrubs; often red pigmentation
+
+- **Seeds**: often curved
+
+- **Flowers**: small, actinomorphic (radially symmetric); petals absent
+
+- **Inflorescences**: spiked clusters, usually prickly
+
+- **Leaves**: simple, mostly entire
+
+- **Stems**: often succulent and/or jointed
+
+
+
+
+## redroot pigweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Amaranthus retroflexus*]{.blue}  
+
+
+**Also**: rough pigweed, careless weed  
+
+
+**Family**: Pigweed (Amaranthaceae)
+
+
+amarantos (Gr.) unfading
+retro (L.) back; backward
+flex (L.) bend
+
+
+
+## redroot pigweed
+
+[*Amaranthus retroflexus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: linear, hairless, petioled
+
+- **Leaves**: Simple, alternate, petioled, pubescent attachment, ovate to lanceolate shape (broader than waterhemp), entire to toothed margins, appear ‘crinkled’, surface may be pubescent on both sides, prominent veins
+
+- **Stem**: erect, reddish color, pubescent, may have lines or ridges
+
+- **Upper roots**: pink to red color
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## redroot pigweed
+
+[*Amaranthus retroflexus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: cultivated fields, gardens, roadsides.
+
+- Seeds of *Amaranthus* spp. are hard to distinguish from one another.
+
+- Can cause bloat in cattle, accumulates nitrates.
+
+
+
+:::
+
+::::
+
+
+
+## waterhemp {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Amaranthus tuberculatus*]{.blue}  
+
+
+**Also**: common waterhemp
+
+
+**Family**: Pigweed (Amaranthaceae)
+
+
+amarantos (Gr.) unfading  
+tuberculatus (L.) warty  
+ 
+
+
+## waterhemp
+
+[*Amaranthus tuberculatus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: linear, hairless
+
+- **Leaves**: simple, alternate, petioled attachment, lanceolate shape, narrow and long, entire to undulate margins, rounded or blunt tips, hairless surface
+
+- **Stem**: Erect to ascending, hairless, smooth
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## waterhemp
+
+[*Amaranthus tuberculatus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: marshes, sandbars, river banks, cultivated fields, and roadsides
+
+- Accumulates nitrates and may poison livestock.
+
+- Has developed resistance to several herbicide modes of action (ALS, glyphosate, Photosystem II, PPO etc)
+
+
+:::
+
+::::
+
+
+
+
+## Palmer amaranth {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Amaranthus palmeri*]{.blue}  
+
+**Also**: carelessweed  
+
+**Family**: Pigweed (Amaranthaceae)  
+
+amarantos (Gr.) unfading   
+palmeri after Edward Palmer who collected early specimens   
+
+
+## Palmer amaranth
+
+[*Amaranthus palmeri*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual 
+
+- **Cotyledons**: linear, hairless
+
+- **Leaves**: simple, alternate, glabrous, long-petiolate, lanceolate shaped or egg-shaped, entire margins, first true leaves ovate in shape and are slightly notched at the tip of the leaf blade 
+
+- **Stems**: Erect, branched 
+
+- **Flower**: monoecious (flowers are either male or female; both sexes can be found on the same plant) 
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Palmer amaranth
+
+[*Amaranthus palmeri*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Origin**: Northern Mexico - Southern USA
+
+- Very similar to Redroot Pigweed, look for deep venation, with veins on the underside of the leaf to have a white color. 
+
+- Has developed resistance to several herbicide modes of action (ALS, glyphosate, Photosystem II, PPO)
+ 
+
+:::
+
+::::
+
+
+## Figwort (or Snapdragon) Family (Scrophulariaceae)
+
+
+- Shrubs and herbs (mostly), trees
+
+- Annuals, biennial, perennial
+
+- **Leaves**: alternate, opposite, sometimes whorled, simple to pinnately divided
+
+- **Flowers**: perfect and mostly irregular
+
+- **Fruits**: usually a 2-chambered capsule
+
+- Many species are cultivated for their handsome flowers (e.g., snapdragon flower)
+
+
+ 
+
+## common mullein {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Verbascum thapsus*]{.blue}  
+
+
+**Also**: flannel plant, velvet dock, velvet plant, woolly mullein  
+
+
+**Family**: Figwort (Scrophulariaceae)  
+
+
+
+## common mullein
+
+[*Verbascum thapsus*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Biennial
+
+- **Cotyledons**: spatula shaped and slightly hairy
+
+- **Leaves**: simple, hairy, "woolly"
+  - First true leaves are oval 
+  - Subsequent leaves are oblong and have wavy margins
+  - Initially develop as a basal rosette and then occur alternately along the flowering stem
+  - Leaves become progressively smaller up the flowering stem
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## common mullein
+
+[*Verbascum thapsus*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: 
+  - Unbranched, erect, densely hairy, occurring during the second year of growth
+
+- **Found**: 
+  - Pastures, hay fields, roadsides, right-of-ways, and abandoned areas
+  - Was brought to America by the Puritans, who used the plant as a medicinal herb
+  - Teas and ointments made from the leaves of this weed continued to be used for many years as a ‘cure’ for lung diseases, rheumatism, burns, rashes, and earaches
+
+:::
+
+::::
+
+
+## Caltrop family (Zygophyllaceae)
+
+- Herbs and shrubs
+
+- **Leaves**: opposite or alternate, pinnately compound or 2-3 foliate
+
+- **Flowers**: five petals and five sepals
+
+- **Fruits**: capsule, or splits into 5-10 nutlets
+
+- Only about 250 species
+
+
+
+## puncturevine {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Tribulus terrestris*]{.blue}  
+
+
+**Also**: goathead, caltrop
+
+
+
+**Family**: Caltrop (Zygophyllaceae)
+
+
+## puncturevine
+
+[*Tribulus terrestris*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: entire margins, elongated, notched at tip
+
+- **Leaves**: even-pinnately compound
+  - Petiolate attachment below
+  - Opposite arrangement
+  - Ovate to oblong shape
+  - Entire margins
+  - Sparsely hairy surface
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+
+## puncturevine
+
+[*Tribulus terrestris*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Stem**: prostrate, branched from base, mat forming, pubescent early, then becomes glaborate
+
+- **Found**: roadsides, pastures, sandy and gravelly soils
+
+- Contains steroidal saponins, causes phytosensitivity in sheep
+
+- Fruit is a bur that breaks into 5 parts, each with two or more spines.  They can cause cuts to skin, punctured tires, and damage to wool.
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::::
+
+
+
+
+## {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[**]{.blue}  
+
+
+**Family**: 
+
+
+
+## 
+
+[**]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## 
+
+[**]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::::
+
+
+
+
+## {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[**]{.blue}  
+
+
+**Family**: 
+
+
+
+## 
+
+[**]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## 
+
+[**]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::::
+

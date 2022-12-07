@@ -1,0 +1,745 @@
+---
+title: "PLNT 434 <br>Lab 03 - Weed ID"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 03"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+
+
+## Goosefoot family (Chenopodiaceae)
+
+
+- Herbs and trees
+- **Life cycle**: Annuals and perennials
+- **Leaves**: simple, generally alternate, entire to lobed, glabrous or pubescent
+- **Inflorescence**: raceme or spike
+- **Flowers**: small, usually greenish in color
+- **Fruits**: some species have showy masses of fruits
+- **Cultivated**: spinach, beets, sugar beets
+- 1300 species worldwide
+
+
+
+## Common lambsquarters {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Chenopodium album*]{.blue}  
+
+
+**Family**: Goosefoot (Chenopodiaceae)
+
+
+
+## Common lambsquarters
+
+[*Chenopodium album*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: linear, small
+
+- **Leaves**: simple
+  - Petiolate attachment
+  - Alternate arrangement (can be opposite below)
+  - Lanceolate, somewhat triangular shape
+  - Toothed to entire margins
+  - Glaucous surface, white mealy granules that look like frost
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common lambsquarters
+
+[*Chenopodium album*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, glabrous, often with red or light green stripes
+
+- **Found**: cultivated crops, gardens, pastures, vacant lots
+
+- May accumulate nitrates
+
+- Often causes hay fever
+
+:::
+
+::::
+
+
+
+
+## Kochia {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Kochia scoparia*]{.blue}  
+
+
+**Also**: Mexican burningbush, Mexican fireweed, fireweed, kochia, mock cypress, summer cypress
+
+
+**Family**: Goosefoot (Chenopodiaceae) 
+
+ 
+
+## Kochia 
+
+[*Kochia scoparia*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: summer annual
+
+- **Stem**: erect, reddish, glabrous to pubescent
+
+- **Cotyledons**: 
+  - Attachment: sessile
+  - Shape: linear
+
+- **Leaf**
+  - Complexity: simple
+  - Attachment: petiolate (short)
+  - Arrangement: alternate
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Kochia 
+
+[*Kochia scoparia*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Leaf**:
+  - Shape: linear to ovate
+  - Margins: entire, fringed w/ hairs
+
+- Forage comparable to alfalfa when young; bird cover and seed; hay fever
+
+:::
+
+::::
+
+
+## Parsley family (Apiaceae)
+
+- **Life cycle**:  mostly biennial or perennial
+
+- **Appearance**:  forbs - usually aromatic with hollow stems; fern-like leaves. 
+
+- **Leaves**:  alternately, pinnately divided
+
+- **Flowers**:  arranged in umbels; flowers are small and generally radial.
+
+- **Fruits**:  split in halves, each half with one seed.
+
+- **Cultivated**: carrot, parsley
+
+
+
+
+## poison hemlock {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Conium maculatum*]{.blue}  
+
+
+**Family**: Parsley (Apiaceae)
+
+
+## poison hemlock
+
+[*Conium maculatum*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: biennial
+
+- **Stem**:  erect, highly branched, ridged with purple blotches, hollow between nodes
+
+- **Surface**: smooth and hairless
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## poison hemlock
+
+[*Conium maculatum*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Leaf**:  
+  - Complexity: pinnately divided
+  - Attachment: petiolate
+  - Arrangement: alternate, can be opposite above
+  - Leaf Shape: fern-like, leaflets are toothed to pinnately divided, oblong to lanceolate leaflets
+
+
+
+:::
+
+::::
+
+
+## poison hemlock
+
+[*Conium maculatum*]{.blue} 
+
+
+Contains several alkaloids, foliage has a strong parsnip odor;  it is believed that poison hemlock was used to put Socrates to death
+
+
+## Milkweed Family (Asclepiadaceae)
+
+- **Life cycle**: Primarily perennial herbs, vines and shrubs with milky sap
+
+- **Seeds**: tuft of silky hairs
+
+- **Fruit**: follicles 
+
+- **Flowers**: perfect, often fleshy petals
+
+- **Inflorescences**: often umbels
+
+- **Leaves**: simple, opposite or whorled, entire
+
+- **Stems**: filled with milky sap
+
+
+
+## Common milkweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Asclepias syriaca*]{.blue}  
+
+**Family**: Milkweed (Asclepiadaceae)
+
+
+*Asklepios (Gr.)*:  Greek god of medicine
+
+*syriaca* because mistakenly thought to come from Syria
+
+
+## Common milkweed
+
+[*Asclepias syriaca*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+
+- **Cotyledons**: oblong
+
+- **Leaves**: simple, opposite, entire, ovate, fine pubescence below, glabrous above, petiolate
+
+- **Stem**: erect, sparingly branched, pubescent
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common milkweed
+
+[*Asclepias syriaca*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: native of North America; banks of waterways, floodplains, forest edges, pastures, and waste sites.
+
+- Common host of monarch butterfly larvae.
+
+
+:::
+
+::::
+
+
+
+
+## Honeyvine milkweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ampelamus albidus*]{.blue}  
+
+
+**Family**: Milkweed (Asclepiadaceae)
+
+
+ampelos (Gr.) vine
+albidus (L.) white
+
+
+## Honeyvine milkweed
+
+[*Ampelamus albidus*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: 
+
+- **Cotyledons**: oval to oblong
+
+- **Leaves**: opposite, entire, heart shaped, distinctly white palmate venation, glabrous, petiolate
+
+- **Stem**: slender, twining, not milky unlike other *Asclepiadaceae* spp. 
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Honeyvine milkweed
+
+[*Ampelamus albidus*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: native of North America, forest edges, thickets, floodplains, and disturbed areas.
+
+- Often incorrectly identified as a morningglory (Ipomoea spp.) or field bindweed (Convolvulus arvensis).  
+
+- Leaf shape, and prominent white venation distinguish honeyvine milkweed from these other twining weeds.
+
+:::
+
+::::
+
+
+
+## Buckwheat (or Smartweed) family (Polygonaceae)
+
+- Herbs and herbaceous vines
+
+- **Life cycle**: Annuals, biennials, and perennials
+
+- **Leaves**: alternate, simple, entire, basal or cauline
+
+- **Flowers**: perfect, imperfect, or functionally unisexual
+
+- **Fruits**: achene
+
+- Stipules of the leaves sometimes sheath the stem, forming a structure called the ‘ochrea’
+
+
+## Ochrea
+
+
+
+Papery sheaths found where the petiole attaches to the stem
+
+
+
+
+## Wild buckwheat {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Polygonum convolvulus*]{.blue}  
+
+
+
+**Family**: Buckwheat (or Smartweed) (Polygonaceae)
+
+
+
+## Wild buckwheat
+
+[*Polygonum convolvulus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Annual
+
+- **Cotyledons**: oblong to lanceolate shape, not completely opposite to each other
+
+- **Leaves**: simple
+  - Petioled attachment, ochrea
+  - Alternate arrangement
+  - Heart shaped lower leaves, lanceolate to arrowhead shaped upper leaves
+  - Basal lobes directed backward, tapering to a point, tips pointed
+  - Entire margins
+  - Glabrous surface
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+
+## Wild buckwheat
+
+[*Polygonum convolvulus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: trailing or twining, fine and rough pubescence
+
+- **Found**: fence rows, roadsides, occasionally in cultivated fields and gardens
+
+- May cause skin irritation
+
+:::
+
+::::
+
+
+
+
+## Curly dock {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Rumex crispus*]{.blue} 
+
+
+**Family**: Buckwheat (Plygonaceae)
+
+
+
+
+## Curly dock
+
+[*Rumex crispus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+
+- **Cotyledons**: long and somewhat club shaped, seem to flop on ground
+
+- **Leaves**: simple, appear as rosette early
+  - Petiolate attachment, has ochrea
+  - Alternate arrangement
+  - Oblong-lanceolate to linear-lanceolate shape
+  - Wavy-curled (crisped) margins
+  - Hairless surface, prominent midvein
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Curly dock
+
+[*Rumex crispus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, single or in groups, unbranched
+
+- **Found**: pastures, waste areas, roadsides, alfalfa fields, meadows, gardens, abandoned feedlots.
+
+- Pollen can cause hay fever.
+
+- Has caused death in sheep.
+
+:::
+
+::::
+
+
+
+## Plantain family (Plantaginaceae)
+
+- Herbs
+
+- **Life cycle**: Annuals and perennials
+
+- **Leaves**: generally basal, simple, longitudinal ribs, no stipules
+
+- **Inflorescence**: dense, spikes of various lengths
+
+- **Flowers**: radial, small, borne on a leafless stalk
+
+
+
+
+## Buckhorn plantain {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Plantago lanceolata*]{.blue}  
+
+
+- **Also**: narrowleaf plantain, english plantain, ribwort, ribgrass
+
+
+**Family**: Plantain (Plantaginaceae)
+
+
+## Buckhorn plantain
+
+[*Plantago lanceolata*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+
+- **Cotyledons**: very long and cylindrical, look like antennae
+
+- **Leaves**: simple
+  - Basal attachment
+  - Alternate arrangement, in a rosette
+  - Lanceolate to narrowly elliptic or linear shape
+  - Entire to shallowly toothed margins, pointed tips
+  - Pubescent to nearly hairless surface, with 3 to several prominent parallel veins
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Buckhorn plantain
+
+[*Plantago lanceolata*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: acaulescent, grooved, leafless, stiff pubescence above
+
+- Found in lawns, golf courses, sod farms, meadows, pastures, and roadsides
+Ancient Greeks used leaves and seeds for a tea to treat fever, cough, diarrhea, snake and insect bites
+
+:::
+
+::::
+
+
+## Purslane (Portulacaceae)
+
+- Herbs or rarely shrubs	
+
+- **Life cycle**: Annual or perennial
+
+- **Leaves**: entire, opposite, alternate, or in basal whorl, generally fleshy
+
+- **Flowers**: 2 sepals, 3-18 petals, perfect
+
+- **Fruits**: capsule, one to may seeds which are typically black and shiny
+
+
+
+## Common purslane {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Portulaca oleracea*]{.blue}  
+
+
+
+**Family**: Purslane (Portulacaceae)
+
+
+
+## Common purslane
+
+[*Portulaca oleracea*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: ovate, rounded, thick and fleshy
+
+- **Leaves**: simple
+  - Sessile attachment
+  - Alternate to nearly opposite arrangement
+  - Spatulate shape with rounded or nearly truncate tip
+  - Entire margins
+  - Glabrous surface, thick and fleshy
+  
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common purslane
+
+[*Portulaca oleracea*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: prostrate, branching, mat-forming, fleshy, purplish-red to flesh colored, hairless
+
+- Found: gardens, flower beds, lawns, orchards, cultivated land.  Most persistent in moist soil
+
+- Will root from stem cuttings
+
+:::
+
+::::
+
+
+

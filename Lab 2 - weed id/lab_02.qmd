@@ -1,0 +1,1382 @@
+---
+title: "PLNT 434 <br>Lab 02 - Weed ID"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 02"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+
+## Nightshade (Solanaceae) {.textcenter background-color="#FFF8DC" background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+### galo
+
+#### galo
+
+
+- No single characteristic common only to this family
+
+- **Leaves**: generally alternate, simple, hairy, have a characteristic odor, petioled, egg or triangular shaped
+
+- **Inflorescence**: racemes or umbels
+
+- **Flowers**: perfect, in small clusters, typically white or pink
+
+- **Fruits**: berry or capsule
+
+- **Cultivated**: tomato, potato, peppers, eggplant, tobacco, paprika, petunias
+
+
+
+## Eastern black nightshade {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Solanum ptycanthum*]{.blue}  
+
+**Also**: black nightshade  
+
+- **Family**: Nightshade (Solanaceae)  
+
+
+
+## Eastern black nightshade
+
+[*Solanum ptycanthum*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Family**: Summer annual
+
+- **Cotyledons**: small, ovate, maroon colored on lower surfaces
+
+- **Leaves**: simple
+  - Alternate arrangement
+  - Ovate to triangular or lanceolate shape, tip pointed to rounded or blunt
+  - Entire to sinuate-dentate margins
+  - Hairless to sparsely pubescent surface
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Eastern black nightshade
+
+[*Solanum ptycanthum*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, divergently branching, without hair to sparsely hairy
+
+- **Found**: roadsides, gardens, row crops, stream banks
+
+- Berries and other plant parts contain the alkaloid solanidine. Causes gastrointestinal irritation and sometimes death.
+
+- Berries mixed with harvested crop can greatly reduce the crop value
+
+
+:::
+
+::::
+
+
+
+
+## Jimsonweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Datura stramonium*]{.blue}  
+
+
+**Also**: thornapple, moonflower  
+
+**Family**: Nightshade (Solanaceae)  
+
+
+
+## Jimsonweed
+
+[*Datura stramonium*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: thick, without hairs, long and linear in outline 
+
+- **Leaves**: simple
+  - Petiolate attachment
+  - Alternate arrangement
+  - Ovate shape, gradually pointed tips
+  - Margins toothed, unevenly sinuate-dentate
+  - Smooth, hairless surface
+
+- **Stem**: Erect, branching above, smooth, green to purple in color
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Jimsonweed
+
+[*Datura stramonium*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Found**: Barn lots, cultivated fields, gardens, pastures, flood plains
+
+- Leaves have strong scent when crushed
+
+- Planted as an ornamental under the common name of moonflower
+
+- Reported to be able to extract heavy metals and radioactive materials from contaminated soil
+
+- Contains high levels of solonaceous alkaloids, and is highly poisonous.  Has caused death in all types of livestock
+
+
+:::
+
+::::
+
+
+## Mustard family (Brassicaceae)
+
+- Herbs
+
+- Annuals (many winter), biennials, and perennials
+
+- **Stem**: initially compact for many species, with leaves arranged in a basal rosette 
+  - Often elongates as plants mature and flower 
+
+- **Leaf arrangement**: alternate
+
+- **Leaves**: simple or divided
+  - Rosette leaves may differ from upper leaves
+  
+- **Roots**: taproot
+
+- **Inflorescence**: indeterminate racemes bearing many flowers
+
+- **Flowers**: blue, red, white, or yellow.  Small with 4 petals and 4 sepals arranged like a cross.  
+
+- **Fruits**: silique or silicle
+
+- **Reproduction**: seed, root stock
+
+- **Cultivated varieties**: cabbage, turnip, radish, crambe, canola
+
+
+
+
+## Field pennycress {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Thlaspi arvense*]{.blue}  
+
+
+
+**Family**: Mustard (Brassicaceae)
+
+
+## Field pennycress
+
+[*Thlaspi arvense*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Annual (summer or winter)
+
+- **Cotyledons**: oblong, petiolate
+
+- **Leaves**: simple
+  - Petiolate attachment below, sessile and clasping attachment above
+  - Alternate arrangement, lower blades in rosette
+  - Lower blades spatulate with rounded tip, upper blades oblong-elliptic with pointed tip
+  - Lower blades entire to coarsely toothed margins, upper blades coarsely toothed
+  - Glabrous surface
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Field pennycress
+
+[*Thlaspi arvense*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, branched or simple, smooth
+
+- **Found**: small grain and alfalfa fields, hayland, pastures, gardens, roadsides
+
+- May cause gastric distress to cattle if feed is contaminated with seed
+
+- May give garlic-like flavor/odor to milk if cattle consume the plant
+
+
+:::
+
+::::
+
+
+
+
+## Wild mustard (charlock) {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sinapis arvensis*]{.blue}  
+
+**Family**: Mustard (Brassicaceae)
+
+
+## Wild mustard 
+
+[*Sinapis arvensis*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Annual (winter or summer)
+
+- **Cotyledons**: small, butterfly shaped
+
+- **Leaves**: simple
+  - Alternate arrangement
+  - Ovate to lanceolate shape, upper leaves become smaller
+  - Irregularly lobed, some dentate margins
+  - Hairy surface
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Wild mustard 
+
+[*Sinapis arvensis*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, hairy, branching above
+
+- **Found**: gardens, roadsides, hayland, pastures, small grain fields
+
+- Has caused gastroentitis in sheep and swine from ingestion of seeds
+
+- Closely related to canola
+
+:::
+
+::::
+
+
+## Cucumber Family (Cucurbitaceae)
+
+- 750-1000 species worldwide
+
+- Mainly tropical regions
+
+- Mostly vines
+
+- **Cultivated crops**: cucumbers, squash, melons, pumpkins, gourds
+
+
+
+
+
+## Burcucumber {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sicyos angulatus*]{.blue}  
+
+
+**Family**: Cucumber (Cucurbitaceae)
+
+
+## Burcucumber
+
+[*Sicyos angulatus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: oblong, thick, green, slightly roughened
+
+- **Leaves**: simple
+  - Palmate
+  - Alternate arrangement
+  - Pubescent
+  - 2-5 cm petiole; also pubescent
+  - 5 pointed lobes
+
+- **Stem**: climbing vine, branched, pubescent at leaf nodes
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Burcucumber
+
+[*Sicyos angulatus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Found**: fencerows, floodplains, moist sites, cultivated fields (though uncommon), lowlands, climbing around surrounding vegetation
+
+- Often problematic for ornamental trees and shrubs
+
+- Native of North American
+
+- Similar to cucumber found in your garden
+
+- Valuable to upland game and song birds for providing canopy cover
+
+:::
+
+::::
+
+
+## Sunflower family (Asteraceae)
+
+- Mostly herbs, but also shrubs
+
+- Annuals, perennials
+
+- Around 20,000 species
+
+- **Stems**: usually hairy and rough
+
+- **Leaves**: mostly alternate, occasionally opposite, rough, hairy, sometimes spiny, usually simple, entire or lobed, without stipules
+
+- **Flowers**: generally clustered into heads
+
+- **Fruits**: achenes
+
+- Cultivated varieties: sunflower, lettuce, globe artichoke, chicory, safflower, chrysanthemums, asters
+
+
+
+## Common sunflower {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Helianthus annuus*]{.blue}   
+
+**Also**: wild sunflower  
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Common sunflower
+
+[*Helianthus annuus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: short and circular, ovate, no hair, prominent mid vein
+
+- **Leaves**: simple
+  - Upper leaves alternate, opposite below
+  - Ovate to lanceolate shape 
+  - Both sides pubescent, scabrous
+  - Long petioles for attachment
+  - Finely toothed to nearly entire margins
+
+- **Stem**: erect with coarse pubescence, branched above
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common sunflower
+
+[*Helianthus annuus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Found**:  cultivated fields, pastures, gardens, roadsides
+
+- Good forage value when young, provides excellent wildlife cover
+
+- Early germination, narrow window
+
+- Extremely competitive, one of the worst
+
+- Common sunflower can accumulate levels of nitrates that are toxic to livestock
+
+:::
+
+::::
+
+
+
+
+## Giant Ragweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ambrosia trifida*]{.blue}   
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Giant Ragweed
+
+[*Ambrosia trifida*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: somewhat club-shaped
+
+- **Leaves**: simple
+  - Opposite arrangement
+  - 3 to 5 lobes
+  - Serrate margins
+  - Scabrous surface with tiny hairs
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Giant Ragweed
+
+[*Ambrosia trifida*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, branching above, coarse, sometimes pubescent
+
+- **Found**: cultivated fields, gardens, pastures, fence rows, roadsides
+
+- May accumulate nitrates, especially after spraying with 2,4-D
+
+- Common cause of hay fever
+
+:::
+
+::::
+
+
+
+
+## Common Ragweed {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Ambrosia artemisiifolia*]{.blue}  
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Common Ragweed
+
+[*Ambrosia artemisiifolia*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**:
+
+- **Cotyledons**: Spatulate with no visible veins 
+
+- **Leaves**: Bi-pinnately dissected 
+  - fern like in appearance   
+  - Opposite or alternate arrangement
+  - Serrate margins
+  - Pubescent lower leaves
+
+- **Stem**: Erect 
+  - Pubescent 
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common Ragweed
+
+[*Ambrosia artemisiifolia*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Roots**:  Shallow and fiberous
+
+- **Found**: cultivated fields, gardens, pastures, fence rows, roadsides.
+
+- May accumulate excessive amounts of micro nutrients, out competing corn.    
+
+:::
+
+::::
+
+
+
+
+## marestail {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Conyza canadensis*]{.blue}  
+
+**Also**: horseweed, fleabane
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Marestail
+
+[*Conyza canadensis*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: annual (winter, summer)
+
+- **Cotyledon**: round to ovate
+
+- **Leaves**: many leaves, no petiole
+
+- **Stems**: covered with bristly hairs; branched at top
+
+- **Flowers**: many small flowers on axillary branches.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## 
+
+[**]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Origin**: Native
+
+- **Found**: On rangeland, open cultivated fields, gardens, waste ground, and disturbed sites.
+
+- **Poisoning**: Horseweed contains volatile oils, tannic acid, and gallic acid that may cause skin and mucosal irritation in humans and livestock, especially horses.
+
+- **Historical**: Native Americans used this plant as an astringent.  Early settlers used it to treat internal hemorrhage, diarrhea, and dysentery.
+
+:::
+
+::::
+
+
+
+## Common burdock {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Arctium minus*]{.blue}  
+
+**Also**: bardane, beggar's button, lesser burdock, wild burdock, wild rhubarb
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Common burdock
+
+[*Arctium minus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Biennial forb
+
+- **Cotyledons**: elliptical, dull green with purplish stem
+
+- **Leaves**: dull green on top, whitish green on bottom
+  - Deep venations 
+  - Rosette of basal leaves 1^st^ year, 2^st^ year grows 3-6 feet tall
+
+- **Stem**: Long petioles, leaves resemble rhubarb
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Common burdock
+
+[*Arctium minus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Flowers**: thistle-like, rose to purple
+
+- **Fruit**: a bur with many seeds
+
+- Found mostly in pastures, roadsides, waste places.
+
+- Does not survive cultivation
+
+- Noxious weed in Colorado and Wyoming
+
+:::
+
+::::
+
+
+
+## Dandelion {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Taraxacum officinale*]{.blue}  
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Dandelion 
+
+[*Taraxacum officinale*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Cotyledons**: somewhat club-shaped, small
+
+- **Leaves**: simple
+  - Arranged in a basal rosette
+  - Oblanceolate shape
+  - Variously lobed margins, terminal lobe generally largest
+  - Lightly hairy surface, especially lower surface and midvein
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Dandelion 
+
+[*Taraxacum officinale*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: Hollow, 1 to few in number, glabrous or slightly hairy, contains a milky juice
+
+- **Found**: rangeland, pastures, meadows, lawns
+
+- One of the most common and familiar lawn weeds in the U.S.
+
+:::
+
+::::
+
+
+
+##  {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[**]{.blue}  
+
+
+**Family**: 
+
+
+## Musk Thistle
+
+[*Carduus nutans*]{.blue} 
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Cotyledons**: oblong with little to no petioles (sessile); distinctive white veins on their upper surface.
+
+- **Leaves**: alternate arrangement
+  - lobed with a smooth, waxy surface and sharp whitish spines at the tips of the lobes
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Musk Thistle
+
+[*Carduus nutans*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, branched, with spines.
+
+- **Flowers**: red-purple
+
+- **Found**: primarily a weed of pastures, hayfields, roadsides, and noncrop areas that can be found throughout the United States.
+
+:::
+
+::::
+
+
+
+## Buffalobur {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Solanum rostratum*]{.blue}  
+
+
+**Family**: Sunflower (Asteraceae)
+
+
+## Buffalobur
+
+[*Solanum rostratum*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Cotyledons**: long and narrow
+  - First true leaves are pinnatifid
+  
+- **Leaves**: simple
+  - Alternate arrangement
+  - Ovate to broadly elliptic, deeply lobed
+  - Entire or undulate margins
+  - Hairy surface, trichomes on both sides, may have spines
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Buffalobur
+
+[*Solanum rostratum*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Stem**: erect, long spines, some pubescence
+
+- **Found**: corrals, feedlots, overgrazed pastures, roadsides
+
+- Contains poisonous alkaloids, but not often ingested due to spines
+
+- Serves as a host for the Colorado potato beetle
+
+:::
+
+::::
+
+
+
+
+## Western salsify {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Tragopogon dubius*]{.blue}  
+
+
+**Also**:  yellow salsify, goatsbeard, and wild oysterplant  
+
+
+**Family**: Sunflower (Asteraceae)  
+
+tragos (G.) goat  
+pogon (G.) beard  
+dubium (L.) doubt  
+
+
+
+## Western salsify
+
+[*Tragopogon dubius*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Flower**: yellow ray florets (2-3 cm).
+
+- **Fruit**: achene, brown, tapering to a stout beak, pappus of dirty-white color.
+
+- **Leaves**: alternate, blades are simple, long and linear - somewhat grass-like
+
+- **Stems**: erect, sparsely branching, uneven woolly-hair when young, nearly hairless when older; contains white milky juice
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Western salsify
+
+[*Tragopogon dubius*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Common throughout the West and Great Plains in pastures, rangeland, roadsides, waste places, and edges of fields
+
+- Thought to be introduced in 1900s as a garden plant. Not an aggressive weed. Control is seldom necessary. 
+
+
+:::
+
+::::
+
+
+
+
+
+
+
+
+## The Bean Family (Fabaceae)
+
+- Mostly herbs, but sometimes shrubs and trees
+
+- Leaves are stipulate, and nearly always alternate.  May be pinnately or palmately compound, or simple.
+
+- Fruit is usually a legume
+
+- Flowers are usually in racemes, spikes, or heads
+
+- Cultivated varieties include soybeans, peanuts, alfalfa, and peas
+
+
+
+
+## Hemp sesbania {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sesbania exaltata*]{.blue}  
+
+
+
+**Family**: Bean (Fabaceae)
+
+
+## Hemp sesbania 
+
+[*Sesbania exaltata*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+- **Cotyledons**: spoon-shaped
+  - First true leaf is simple
+
+- **Stem**: erect or ascending, glabrous, rarely branched
+
+- **Root**: taproot
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Hemp sesbania 
+
+[*Sesbania exaltata*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Leaf complexity**: even-pinnately compound
+
+- **Leaf arrangement**: alternate
+
+- **Leaf shape**: narrowly oblong
+
+- **Leaf surface**: glabrous
+
+- **Leaf margins**: entire
+
+:::
+
+::::
+
+
+
+
+## volunteer soybean  {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Glycine max*]{.blue}  
+
+**Family**: Bean (Fabaceae)
+
+## volunteer soybean 
+
+[*Glycine max*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+- **Cotyledons**: oblong, opposite    
+  - First true leaf is a trifoliate and is alternate to second true leaf
+
+- **Stem**: erect or ascending, pubescent, alternately branched
+
+- **Root**: taproot
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## volunteer soybean 
+
+[*Glycine max*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::::
+
+
+
+## white clover {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Trifolium repens*]{.blue}  
+
+
+**Also**: ladino clover, Dutch clover  
+
+
+
+**Family**: Bean (Fabaceae)
+
+
+
+## white clover
+
+[*Trifolium repens*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+
+- **Leaves**: Alternate, palmately 3-foliate, leaflets broadly elliptic to obovate, tips rounded and notched (retuse), margins finely toothed, surface is hairless
+
+- **Stems**: Creeping, rooting at the nodes, mat-forming
+
+- **Root**: Taproot and fibrous roots
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## white clover
+
+[*Trifolium repens*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Flower**: White corolla or tinged with pink, typical 5-petaled legume flower
+
+- **Fruit**: Pod (legume) oblong to linear (4-6 mm long) in clusters, seeds 2-4
+
+- **Found**: Common throughout the West and Great Plains in lawns, meadows, pastures, rangeland, roadsides, waste places
+
+- **Uses**: Excellent forage quality for all classes of livestock and wildlife (bloat may occur). White clover adds nitrogen to the soil and is an excellent honey plant for bees.
+
+
+:::
+
+::::
+
+
+
+
+
+
+
+
+
+
+## Mint family (Lamiaceae)
+
+- Square stems
+
+- Opposite or whorled leaves
+
+- Many species aromatic
+
+- Consists of many herbs
+
+
+## Henbit {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Lamium amplexicaule*]{.blue}  
+
+
+**Family**: Mint (Lamiaceae)
+
+
+## Henbit
+
+[*Lamium amplexicaule*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Winter annual
+
+- **Stems**: Greenish to purple square, soft and finely hairy
+
+- **Leaves**: Opposite
+  - Broad, egg shaped
+  - Blunt toothed margins
+  - Prominent veins on underside
+  - Upper leaves sessile 
+- **Height**: 16”
+- **Flowers**: Spring
+  - reddish purple
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Henbit
+
+[*Lamium amplexicaule*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- Weed in turfgrass, land-escapes and small grains
+
+- Becoming a prevalent winter annual weed in no-till fields  
+
+- Amplexicaule refers to the amplexicaul leaves, or sessile
+
+:::
+
+::::
+
+

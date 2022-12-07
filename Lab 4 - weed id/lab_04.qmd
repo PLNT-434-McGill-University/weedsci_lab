@@ -1,0 +1,1053 @@
+---
+title: "PLNT 434 <br>Lab 04 - Weed ID"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 04"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+
+## Grass Family (Poaceae)
+
+- **Flowers**: minute flowers arranged in spikelets
+
+- **Leaves**: strap shaped, alternate, parallel venation, leaves; sheath and blade
+
+- **Stems**: usually hollow (culm), solid at nodes
+
+- **Cultivated**: corn, barley, grain sorghum, oats, wheat, rye, millet
+
+
+## Grass Identification Terms: Parts
+
+
+
+
+## Grass Identification Terms: Auricles
+
+
+
+
+## Grass Identification Terms: Auricles
+
+
+
+
+## Grass Identification Terms: Ligule
+
+
+
+
+## Grass Identification Terms: Ligule
+
+
+
+
+## Grass Identification Terms: Twist
+
+
+
+
+
+
+## 
+
+
+Questions on Morphology?
+
+
+
+
+
+## annual bluegrass {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Poa annua*]{.blue}  
+
+
+**Family**: Grass Family (Poaceae)  
+
+poa (Gr.) grass  
+annus (L.) annual  
+
+
+## annual bluegrass
+
+[*Poa annua*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Winter Annual
+
+- **Distinctive characteristic**: boat shaped leaf tip
+
+- **Collar**: rounded, membranous ligule with pointed, jagged tip. 
+
+- **Blades**: hairless; often yellowish green, and sometimes dark green; often crinkled at the midsection.
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+
+
+## annual bluegrass
+
+[*Poa annua*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Turf, gardens, landscape areas, fields, roadsides, vegetable crops, vineyards and orchards.
+
+- Tends to thin and die out during the heat and drought of August.
+
+:::
+
+::::
+
+
+
+## Longspine sandbur {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Cenchrus longispinus*]{.blue} 
+
+
+**Also**: field sandbur, burgrass  
+
+
+**Family**: Grass (Poaceae)  
+
+
+kenchros (Gr.) millet  
+longus (L.) long  
+spina (L.) spine  
+
+
+
+## Longspine sandbur
+
+[*Cenchrus longispinus*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Blade**: flat, sometimes folded tapering to a point; may be rough to the touch.
+
+- **Ligule**:  short membrane fringed with hairs. Auricles: absent.
+
+- **Sheath**: loose, smooth, flattened, slightly hairy on the margins.
+
+- **Culm**: flattened, may be upright or growing flat on the ground, mat forming.
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Longspine sandbur
+
+[*Cenchrus longispinus*]{.blue}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+**Habitat**: Native to North America. Found along roads, waste places, cultivated fields, lawns and rangeland in poor condition. Prefers sandy soils.
+
+- Sandburs hitching a ride!
+
+:::
+
+::::
+
+
+
+
+## Jointed Goatgrass {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Aegilops cylindrica*]{.blue}   
+
+
+**Family**: Grass Family (Poaceae)  
+
+
+aigos (Gr.) goat; aigilops (Gr.) long awned grass  
+kylindros (G.) cylinder  
+
+
+## Jointed Goatgrass
+
+[*Aegilops cylindrica*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Winter Annual
+
+- **Blade**: flat; pubescent or without hair, hairs on margins near the blade base.
+
+- **Ligule**: membranous. 
+
+- **Auricles**: inconspicuous or absent.
+
+- **Sheath**: open, without hair or ciliate to sparsely pilose (i.e., with long soft, straight hairs).
+
+- **Culm**: erect or geniculate (i.e., sharply bent) at base; branching at the base.
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+
+## Jointed Goatgrass
+
+[*Aegilops cylindrica*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Origin**: Native of Europe.
+  - Thought to be introduced in late 1800s from contaminated wheat from Turkey.
+
+- **Found**: in wheat fields, alfalfa fields, pastures, roadsides, and waste sites.  
+
+- Problem in wheat growing area, because the seed is the nearly the same size as wheat seed and these two plants can cross.
+
+:::
+
+::::
+
+
+
+
+## Wild oats {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Avena fatua*]{.blue}  
+
+**Also**: cheatgrass, military grass  
+
+**Family**: Grass Family (Poaceae)
+
+avena (L.) oats  
+fatuus (L.) silly; foolish  
+
+
+## Wild oats
+
+[*Avena fatua*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Winter Annual
+
+- **Blade**: rotates counter-clockwise; hairless to slightly pubescent.
+
+- **Ligule**: membranous. 
+
+- **Auricles**: absent.
+
+- **Sheath**: Hairless to slightly pubescent.
+
+- Different from domestic oats by twisting of the awns, which bends at nearly right angles.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Wild oats
+
+[*Avena fatua*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Disturbed soils, roadsides, wheat fields (problem in wheat production).
+
+- Blamed for many wild fires in the Western U.S.
+
+:::
+
+::::
+
+
+
+
+## Shattercane {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sorghum bicolor*]{.blue}  
+
+
+**Also**: black amber, chicken corn, wild cane  
+
+**Family**: Grass (Poaceae)
+
+surgum (L.) great millet  
+bicolor (Eng.) having two colors  
+
+
+## Shattercane
+
+[*Sorghum bicolor*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Blade**: linear-lanceolate, flat, sometimes with reddish or purplish splotches
+
+- **Ligule**: Membranous, ciliate, rounded or blunt (rarely pointed). Auricles: absent .
+
+- **Sheath**: round, often with reddish or purplish splotches, sometimes pubescent
+
+- **Culm**: erect, several from single base, stout, hairless.
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Shattercane
+
+[*Sorghum bicolor*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Originally from Africa. Found in cultivated fields of corn, grain sorghum, and soybeans.
+
+- All sorghums from the same species and can hybridize. 
+
+:::
+
+::::
+
+
+
+## Johnsongrass {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Sorghum halepense*]{.blue}  
+
+
+**Family**: Grass (Poaceae)
+
+
+surgum (L.) great millet  
+halepensis (G.) from Aleppo, Syria  
+
+
+## Johnsongrass
+
+[*Sorghum halepense*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Perennial
+
+- **Blade**: Linear, flat, midrib prominent (lighter color normally white), usually without hairs.
+
+- **Ligule**: Membranous, truncate, erose (i.e., irregularly notched at the tip or margin; appearing gnawed or eroded).
+
+- **Sheath**: open, round. 
+
+- **Rhizomes**: creeping and thick.
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Johnsongrass
+
+[*Sorghum halepense*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Usually near water—ditches, in waterways. Escaped forage grass from the Southeastern USA.
+
+- **Poison**: Forms hydrocyanic acid when growth is interrupted by drought or frost.
+
+:::
+
+::::
+
+
+
+
+
+## Downy Brome {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Bromus tectorum*]{.blue}  
+
+
+**Family**: Grass (Poaceae)  
+
+
+bromos (G.) grass  
+tector (L.) straw for thatching  
+
+
+## Downy Brome
+
+[*Bromus tectorum*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer or winter annual  
+
+- **Seeds**: Drooping seed heads when mature.  
+
+- **Blade**: Densely hairy leaves. 
+
+- **Ligule**: membranous; may be toothed or fringed with hairs. Auricles: none.
+
+- **Sheath**: Round and densely hairy leaf sheath
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## Downy Brome
+
+[*Bromus tectorum*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**:  Fencerows, pastures, hay fields, and occasionally small grain fields.
+
+- Awned seeds may cause sores in the mouths and eyes of grazing animals. They can also reduce the value of wool. 
+
+
+:::
+
+::::
+
+
+
+
+
+## volunteer corn {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Zea mays*]{.blue}  
+
+
+**Family**: Grass (Poaceae)  
+
+zea (L.) kind of grain  
+mays (Sp.) maize  
+
+
+## volunteer corn
+
+[*Zea mays*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: summer annual
+
+- **Blade**: long, wide, tapered
+
+- **Ligule**: membranous or absent depending on hybrid. Auricles: absent.   
+
+- **Stem**: erect and straight; stem is filled with pith; internodes cylindrical
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## volunteer corn
+
+[*Zea mays*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Appears where poor harvesting conditions lead to increased corn grain loss.
+
+- Volunteer corn has potential to become weed in corn or crops following corn. 
+
+- The continuous use of glyphosate-resistant corn and soybean has resulted in an increase in volunteer corn populations in row crops.
+
+
+:::
+
+::::
+
+
+
+## woolly cupgrass {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Eriochloa villosa*]{.blue}  
+
+
+**Family**: Grass (Poaceae)
+
+erion (G.) woolly  
+villus(L.) shaggy-hair  
+
+
+## woolly cupgrass
+
+[*Eriochloa villosa*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Sheath**: Covered with short hair
+
+- **Blade**: flat, linear to lanceolate-linear, pilose, one side often with a distinctive crinkle.
+
+- **Ligule**: fringe of hairs (up to 1.5 mm long). Auricles: absent.
+
+- **Culm**: usually erect, sometimes ascending, branching at lower nodes, softly hairy.
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## woolly cupgrass
+
+[*Eriochloa villosa*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: Originally from Europe and Asia. Found in cultivated fields, ditches, roadsides, and waste areas. 
+
+
+- Spreading rapidly through the corn belt.
+
+
+:::
+
+::::
+
+
+
+
+
+## green foxtail {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Setaria viridis*]{.blue}  
+
+
+**Also**: green bristlegrass, pigeongrass, wild millet  
+
+
+**Family**: Grass (Poaceae)  
+
+
+seta (L.) having bristles  
+aria (L.) suffix meaning "connected with"
+viridis (L.) green  
+
+
+## green foxtail 
+
+[*Setaria viridis*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer Annual
+
+- **Blade**: linear, glabrous 
+
+- **Ligule**: dense fringe of hairs
+
+- **Sheath**: glabrous with pubescent margins
+
+- **Culm**: erect, bent at nodes, may be branched at base
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## green foxtail 
+
+[*Setaria viridis*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: cultivated areas, fields, pastures, lawns, turf, roadsides, railroads, and waste sites. 
+
+- Has moderate forage value when rapidly growing, but unpalatable at maturity.  
+
+- Provides food and cover for game birds.
+
+:::
+
+::::
+
+
+
+
+## yellow foxtail {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Setaria pumila*]{.blue}  
+
+**Also**: summer-grass, golden foxtail, wild millet bristly foxtail, pigeon-grass, and bristlegrass   
+
+**Family**: Grass (Poaceae)
+
+
+
+## yellow foxtail
+
+[*Setaria pumila*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer Annual
+
+- **Blade**: linear, long hairs on  upper surface near leaf base
+
+- **Ligule**: short fringe of hairs
+
+- **Sheath**: glabrous, flattened, somewhat keeled, often with reddish tint at base
+
+- **Culm**: flattened, glabrous, branched 
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## yellow foxtail
+
+[*Setaria pumila*]{.blue}  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: cultivated areas, gardens, fields, rangeland, pastures, lawns, roadsides 
+
+- Moderately palatable when rapidly growing. Becomes unpalatable upon maturity.
+
+- Seeds provide food and plants provide cover for upland gamebirds and songbirds.
+
+:::
+
+::::
+
+
+
+## giant foxtail {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Setaria faberi*]{.blue}  
+
+
+**Also**: Giant bristlegrass, Chinese foxtail, Chinese millet, nodding foxtail
+
+
+**Family**: Grass (Poaceae)
+
+
+seta (L.) having bristles  
+aria (L.) suffix meaning “connected with”  
+faberi after Ernst Faber, who named the species in 1910   
+
+## giant foxtail
+
+[*Setaria faberi*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Blade**: linear, pubescent upper surface, hairless lower surface
+
+- **Ligule**: fringe of hairs
+
+- **Sheath**: round to somewhat keeled; glabrous but pubescent on margins
+
+- **Culm**: erect, branching below, glabrous
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## giant foxtail
+
+[*Setaria faberi*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: cultivated areas, gardens, fields, pastures, lawns, turf, roadsides, railroads, and waste sites. 
+
+
+**Giant** because it is much larger than other foxtails!  
+  Top = yellow foxtail  
+  Middle = giant foxtail  
+  Bottom = green foxtail  
+
+:::
+
+::::
+
+
+ 
+
+## barnyardgrass {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Echinochloa crus-galli*]{.blue}  
+
+
+**Also**: cockspur, watergrass
+
+
+**Family**: Grass (Poaceae)
+
+
+echin (L.) prickly   
+chloa (Gr.) grass  
+crus (L.) lower part of the stalk  
+galli (L.) roosters   
+ 
+
+
+## barnyardgrass
+
+[*Echinochloa crus-galli*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Blade**: flat, without hair but rough to the touch, margins often sawtoothed, veins prominent
+
+- **Ligule**: absent. Auricles: absent.
+
+- **Sheath**: hairless, often with small glands on the margins near the collar
+
+- **Culm**: Stout, arising from a jointed base which trails along the ground
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## barnyardgrass
+
+[*Echinochloa crus-galli*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: irrigated fields, old feedlots, moist, high fertility areas
+
+- Decent forage value when young, but unpalatable at maturity.
+
+
+:::
+
+::::
+
+
+
+
+## wild proso millet {background-image="" background-position="right" background-size="contain" fig-alt=""}
+
+[*Panicum miliaceum*]{.blue}  
+
+
+**Also**: Wild millet, Broomcorn millet  
+
+
+**Family**: Grass (Poaceae)
+
+
+panicum (L.) millet  
+miliaceum (L.) consisting of millet  
+
+
+
+## wild proso millet
+
+[*Panicum miliaceum*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Life cycle**: Summer annual
+
+- **Blade**: Flat, linear-lanceolate, without hair to pubescent upper and lower surfaces.
+
+- **Ligule**: Fringed membrane
+
+- **Sheath**: Rounded to slightly keeled, open; long and spreading hairs on lower leaves, sometimes pubescent sheath margins or sometimes pubescent only at the summit.
+
+- **Culm**: Erect, strongly branching at the base, terete, nodes pubescent. Terete: cylindric and slender; circular in cross-section
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+## wild proso millet
+
+[*Panicum miliaceum*]{.blue} 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- **Habitat**: wastes sites, cultivated fields (especially corn fields). 
+
+- **Uses**: food for doves, pheasants, quail and other game birds.
+
+:::
+
+::::
+
+

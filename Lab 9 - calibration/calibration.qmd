@@ -1,0 +1,312 @@
+---
+title: "PLNT 434 <br>Lab 09 - Sprayer Calibration"
+author: "Maxwel C Oliveira, PhD"
+institute: "Department of Plant Science <br>McGill University"
+format:
+  revealjs: 
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    footer: "Lab 09 - Sprayer Calibration"
+    incremental: true
+    chalkboard: true
+    multiplex: true
+    theme: ["../theme/theme1.scss"]
+    logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png'
+editor: source
+show-slide-number: all
+from: markdown+emoji
+highlight-style: a11y
+css: ["../theme/logo.css"]
+height: 1080
+width: 1920
+execute:
+  echo: false
+---
+
+## Sprayer Calibration Introduction
+
+calibrate (v.)—
+to set an instrument so that readings taken from it are **absolute** rather than **relative**.
+
+
+
+
+## Sprayer Calibration Introduction
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+We calibrate to make sure that this
+
+-> 
+
+
+Matches this
+
+-> 
+
+:::
+
+
+::: {.column width="50%"}
+
+
+
+:::
+::::
+
+
+## Why bother calibrating?
+
+
+To maximize pesticide value
+To minimize crop injury
+To insure use of legal label rates
+
+
+
+## Important Terms
+
+
+
+
+
+
+## 
+
+
+A sprayer has 6 nozzles 
+which are spaced 20 inches apart. 
+
+What is the total boom width?
+
+
+
+## Abbreviations
+
+Abbreviations for dry formulations:
+
+
+
+
+
+
+## Nozzles
+
+
+
+
+## Nozzles
+
+
+
+
+
+## Nozzles
+
+
+
+## The Timed Flow Method
+
+- Select nozzle type based on:  
+  - Method of application  
+  - Field conditions  
+  - Pesticide product  
+  - Sprayer pressure   
+
+- Select nozzle tip (size) based on:  
+  - Target gallons per minute (GPM)  
+  - GPM based on: gpa, mph, nozzle spacing  
+
+
+
+## If we know
+
+- Rate we want to apply ($\frac{gallons}{acre}$, GPA)
+
+- Speed that we want to drive the sprayer ($\frac{miles}{hour}$, MPH)
+
+- Spacing between the nozzles (inches, width)
+
+. . . 
+
+Then how we calculate the gallons that need to be delivered by each nozzle per minute ($\frac{gallons}{minute}$, GPM)
+
+
+
+## 
+
+
+$$GPM = \frac{GPA * MPH * Width}{5960}$$
+<br>
+
+Where does the value 5940 come from?
+
+
+## Sprayer Calibration Calculations
+
+
+
+
+
+
+## Sprayer Calibration Calculations
+
+
+[Practice Problem]{.blue}
+
+
+A low pressure field sprayer is equipped with 16 nozzles spaced on 20-inch centers. The desired delivery volume is 10 GPA.  The sprayer is clocked at 5 MPH over a 300 foot calibration pass.
+
+
+
+
+What is the boom delivery in gallons/min?
+
+
+
+
+## Sprayer Calibration Calculations
+
+
+Step 1. Find out GPM of each nozzle.
+
+
+$$GPM = \frac{GPA * MPH * Width}{5960}$$
+
+<br>
+
+. . . 
+
+
+$$GPM = \frac{10 * 5 * 20}{5960}$$
+
+<br>
+
+. . . 
+
+$$GPM = 0.168$$
+
+
+## Sprayer Calibration Calculations
+
+
+Step 2. Find out the boom delivery ($\frac{Gallons}{Minutes}$).
+
+
+$$Boom delivery = \frac{GPM}{Nozzle} * \frac{Nozzles}{Boom}$$
+
+
+Boom delivery = 0.168 GPM/nozzle * 16 nozzles/boom
+
+
+
+Boom delivery = 2.69 GPM/boom 
+
+
+
+
+## Sprayer Calibration Calculations
+
+
+
+What is the nozzle delivery in $\frac{oz}{minute}$?
+
+
+$$\frac{0.168 gal}{minute} * \frac{128 oz}{gallon} * \frac{21.50}{minute}$$
+
+
+What about in $\frac{mL}{minute}$ mL/min?
+
+$$\frac{0.168 gal}{minute} * \frac{3785 mL}{gallon} * \frac{635.9 mL}{minute}$$
+
+
+
+## Volume/Pressure Ratio
+
+<br><br><br>
+
+<center>
+
+::: r-fit-text
+$$\frac{V_{1}}{V_{2}} = \frac{\sqrt{P_{1}}}{\sqrt{P_{2}}}$$
+:::
+</center>
+
+
+
+## 
+
+
+You know that the TeeJet nozzle 8002VS delivers 0.2 GPM when pressure is at 40 PSI. If a grower needs a GPM of 0.18 using this same nozzle, what pressure should his/her system be at?  
+
+<br>
+
+
+$$\frac{V_{1}}{V_{2}} = \frac{\sqrt{P_{1}}}{\sqrt{P_{2}}}$$
+
+<br>
+
+. . . 
+
+$$\frac{0.2}{0.18} = \frac{\sqrt{40}}{\sqrt{P_{2}}}$$
+
+<br>
+
+. . . 
+
+$$P_{2} = 32.4$$
+
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+## 
+
+
+What is the difference between a backpack sprayer and this self propelled crop sprayer?
+
+
+
+
+
+## Sprayer Calibration Calculations
+
+Helpful Conversions
+
+
+Volume:	1 gal = 4 qts = 3785 mL = 128 fl. oz.
+			1 qt = 2 pts
+
+Area:		1 ac = 43,560 ft2 = .40 ha
+
+Weight:	1 lb = 16 oz. = 0.4554 kg	
+			1 oz. = 28.35 g
+
+Speed:	1 mph = 88 ft/min
+
+
+
+
+
+
+
+
+
+
+
+
+
+
